@@ -17,6 +17,12 @@ if (require(reshape2) == FALSE) {
   library(reshape2)
 }
 
+if (require(Hmisc) == FALSE) {
+  install.packages('Hmisc')
+  library(Hmisc)
+}
+
+
 monuments.url <- "https://en.wikipedia.org/wiki/List_of_National_Monuments_of_the_United_States"
 monuments <- monuments.url  %>%
   read_html() %>%
@@ -109,3 +115,5 @@ hike.frame$gain <- gsub('"', '', hike.frame$gain)
 hike.frame$solitude <- gsub('"', '', hike.frame$solitude)
 hike.frame$camping <- gsub('"', '', hike.frame$camping)
 hike.frame$camping <- gsub('\\)\\);', '', hike.frame$camping)
+hike.frame$gain.per.mile <- as.numeric(hike.frame$gain)/as.numeric(hike.frame$length)
+hike.frame$steepness <-  as.numeric(cut2(hike.frame$gain.per.mile, g = 5))
