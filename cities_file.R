@@ -38,6 +38,11 @@ if (require(XML) == FALSE) {
   library(XML)
 }
 
+if (require(Hmisc) == FALSE) {
+  install.packages('Hmisc')
+  library(Hmisc)
+}
+
 data <- read.table(file, sep = ',', quote = '\"', stringsAsFactors = FALSE)
 data$V1 <- substring(data$V1,6)
 data$V2 <- substring(data$V2,6)
