@@ -24,6 +24,10 @@ for line in data_lines:
 R = 6378.1 #Radius of the Earth
 
 def calculateDistance(lat1, lon1, lat2, lon2):
+    lat1 = radians(lat1)
+    lon1 = radians(lon1)
+    lat2 = radians(lat2)
+    lon2 = radians(lon2)
     dlon = lon2 - lon1
     dlat = lat2 - lat1
     a = (math.sin(dlat/2))**2 + math.cos(lat1) * math.cos(lat2) * (math.sin(dlon/2))**2
