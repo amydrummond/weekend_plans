@@ -3,7 +3,7 @@
 import unirest, urllib2, json
 
 record_url = 'https://raw.githubusercontent.com/amydrummond/weekend_plans/master/data_sources/hilliness_information.txt'
-api_key = "awcyzOciTImshEltHJma8FiyYWZWp1B0aUQjsnqAoOFF4NFg69"
+api_key = " " ### API key for alltrails.com goes here
 
 sock = urllib2.urlopen(record_url)
 data_lines = sock.read().split('\n')
