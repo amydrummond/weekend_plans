@@ -1,4 +1,4 @@
-# weekend_plans
+# Weekend Plans
 
 This will contain the data and code for "Where should we hike this weekend?"  This may be expanded to include other activities, but is currentlybased on Hiking Upward, National Parks and Monuments, AllTrails.com and the weather, starting in DC.
 
