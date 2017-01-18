@@ -36,6 +36,41 @@ while(l > 0){
 ```
 I'll have to work out getting the urls -- it looks like it's string based on the name of the hike, although shorted tp 50 characters including the /us/[state]/. Hiking Upward can be scraped with largely the same script as previously; it looks like the review table is accessible through an xpath.
 
+###Update    
+I tested the statuses for this method:
+```python
+for item in total_hikes.keys():
+	rec = total_hikes.get(item)
+	rec.get('state')
+	sta = rec.get('state')
+	try:
+		sta = sta.replace(' ', '-')
+	except:
+		pass
+	name = rec.get('name')
+	try:
+		name = name.replace(' ', '-')
+	except:
+		pass
+	if 'park' in str(name):
+		ws = 'http://www.alltrails.com/parks/us/' + str(sta) + '/' + str(name)
+	else:
+		ws = 'http://www.alltrails.com/trail/us/' + str(sta) + '/' + str(name)
+	try:
+		a=urllib2.urlopen(ws)
+		a.getcode()
+		a.close()
+		correct_no += 1
+		correct.append(ws)
+	except IOError, e:
+		if hasattr(e, 'code'):
+			print e.code
+			incorrect +=1
+		else:
+			print "None."
+ ```
+Fewer than 30% return a status code of 200.  I'll have to try something else.  
+
 That should do it for static data. 
 
 ##Dynamic sources
