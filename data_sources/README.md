@@ -36,7 +36,7 @@ while(l > 0){
 ```
 I'll have to work out getting the urls -- it looks like it's string based on the name of the hike, although shorted tp 50 characters including the /us/[state]/. Hiking Upward can be scraped with largely the same script as previously; it looks like the review table is accessible through an xpath.
 
-###Update    
+#####Update    
 I tested the statuses for this method:
 ```python
 for item in total_hikes.keys():
