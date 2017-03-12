@@ -83,6 +83,7 @@ I don't like using Selenium because it can't be fully, independently scripted. B
 The next step is to merge the data. This is a multi-step process to clean up the All-Trails data:
 - identifying duplicated websites that were not identified as duplicated because of differences in capitalization
 - assign trail IDs to new trails and add them to the AllTrails list
+	- [script](https://github.com/amydrummond/weekend_plans/blob/master/merge-distinct-hikes.py) : [result](https://github.com/amydrummond/weekend_plans/blob/master/data_sources/merged_alltrails_sites.txt)
 - clean up the geography matching, as the searching sometimes identified trails farther than our tolerance
 - using fuzzy matching and lat/long proximity, indentify the trails that are on both the AllTrails and HikingUpward websites so both reviews and information can be used.
 
