@@ -84,8 +84,7 @@ The next step is to merge the data. This is a multi-step process to clean up the
 - identifying duplicated websites that were not identified as duplicated because of differences in capitalization
 - assign trail IDs to new trails and add them to the AllTrails list
 - clean up the geography matching, as the searching sometimes identified trails farther than our tolerance
-- using fuzzy matching and lat/long proximity, indentify the trails that are on both the AllTrails and HikingUpward websites so
-- both reviews and information can be used.
+- using fuzzy matching and lat/long proximity, indentify the trails that are on both the AllTrails and HikingUpward websites so both reviews and information can be used.
 
 That should do it for static data. 
 
