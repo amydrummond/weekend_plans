@@ -71,6 +71,22 @@ for item in total_hikes.keys():
  ```
 Fewer than 30% return a status code of 200.  I'll have to try something else.  
 
+
+#####Update 2
+
+It appears that the AllTrails acquisition of Everytrail may have created two different databases, and the API pulled from 
+Everytrail, while AllTrails has a more robust and curated database that is not accessed via the API. I made two attempts to
+match what I now believe is the Everytrail data to the website: one by ["guessing" the website itself similar to the code-snippet](https://github.com/amydrummond/weekend_plans/blob/master/all_trails_by_guess.py), 
+and one by using [Selenium]("http://www.seleniumhq.org/") to search for the remaining trails on [Google to get the website](https://github.com/amydrummond/weekend_plans/blob/c45cb40842dc1555314fb7636ce7bc26ab2804b9/all_trails_selenium_google_trails.py).
+I don't like using Selenium because it can't be fully, independently scripted. But once I did, I found that [I could search for the location names from my location](https://github.com/amydrummond/weekend_plans/blob/40f8de64441865396b0469b5c31cc9ad2746c625/selenium_geography_lookup.py) file to collect the nearest trails to all locations, where they existed -- and found far more trails than available by the API. 
+
+The next step is to merge the data. This is a multi-step process to clean up the All-Trails data:
+- identifying duplicated websites that were not identified as duplicated because of differences in capitalization
+- assign trail IDs to new trails and add them to the AllTrails list
+- clean up the geography matching, as the searching sometimes identified trails farther than our tolerance
+- using fuzzy matching and lat/long proximity, indentify the trails that are on both the AllTrails and HikingUpward websites so
+- both reviews and information can be used.
+
 That should do it for static data. 
 
 ##Dynamic sources
