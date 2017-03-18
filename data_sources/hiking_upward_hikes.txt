@@ -1,0 +1,286 @@
+"name"	"latitude"	"longitude"	"url"	"length"	"difficulty"	"streams"	"views"	"gain"	"solitude"	"camping"	"gain.per.mile"	"steepness"
+""	" )"	" \"http://www.hikingupward.com\""	" "	" "	" "	" "	" "	" "	" ));"	""		
+"Little Fall Branch Falls"	" 35.75821"	" -82.97711"	" http://www.hikingupward.com/PNF/LittleFallBranchFalls/"	" 0.6"	" 1"	" 3"	" 0"	" 135"	" 4"	" 0"	225	3
+"Beacon Heights"	" 36.08391"	" -81.83011"	" http://www.hikingupward.com/NCSP/BeaconHeights/"	" 0.8"	" 1"	" 0"	" 5"	" 180"	" 1"	" 0"	225	3
+"Lower Cascade Falls"	" 36.41460"	" -80.26477"	" http://www.hikingupward.com/NCSP/LowerCascadeFalls/"	" 0.9"	" 1"	" 4"	" 0"	" 102"	" 3"	" 0"	113.333333333333	1
+"Mingo Falls"	" 35.53401"	" -83.27627"	" http://www.hikingupward.com/NCSP/MingoFalls/"	" 1"	" 3"	" 5"	" 0"	" 640"	" 2"	" 0"	640	5
+"Roaring Fork Falls"	" 35.76847"	" -82.19530"	" http://www.hikingupward.com/PNF/RoaringForkFalls/"	" 1.5"	" 1"	" 4"	" 0"	" 116"	" 3"	" 0"	77.3333333333333	1
+"Upper Creek Falls"	" 35.95998"	" -81.86107"	" http://www.hikingupward.com/PNF/UpperCreekFalls/"	" 1.7"	" 3"	" 5"	" 2"	" 415"	" 3"	" 0"	244.117647058824	4
+"Red Rock Wilderness"	" 39.11299"	" -77.51011"	" http://www.hikingupward.com/OVH/RedRockWilderness/"	" 1.7"	" 1"	" 4"	" 3"	" 190"	" 1"	" 0"	111.764705882353	1
+"Little Lost Cove Cliffs"	" 36.01057"	" -81.82586"	" http://www.hikingupward.com/PNF/LittleLostCoveCliffs/"	" 1.8"	" 2"	" 0"	" 4"	" 525"	" 4"	" 3"	291.666666666667	5
+"Camp Michaux"	" 40.03720"	" -77.33844"	" http://www.hikingupward.com/OPH/CampMichaux/"	" 2"	" 1"	" 3"	" 2"	" 290"	" 2"	" 0"	145	2
+"Woodstock Tower"	" 38.86819"	" -78.44207"	" http://www.hikingupward.com/GWNF/WoodstockTower/"	" 2"	" 2"	" 0"	" 5"	" 510"	" 2"	" 0"	255	4
+"Belle Isle"	" 37.52785"	" -77.45632"	" http://www.hikingupward.com/OVH/BelleIsle/"	" 2.1"	" 1"	" 4"	" 3"	" 55"	" 1"	" 0"	26.1904761904762	1
+"Hoffler Creek"	" 36.89280"	" -76.39578"	" http://www.hikingupward.com/OVH/HofflerCreek/"	" 2.1"	" 1"	" 4"	" 3"	" 13"	" 3"	" 0"	6.19047619047619	1
+"Scotts Run"	" 38.95873"	" -77.20503"	" http://www.hikingupward.com/OVH/ScottsRun/"	" 2.2"	" 2"	" 4"	" 3"	" 240"	" 1"	" 0"	109.090909090909	1
+"Little Bearwallow Falls"	" 35.47343"	" -82.33224"	" http://www.hikingupward.com/NCSP/LittleBearwallowFalls/"	" 2.2"	" 2"	" 4"	" 0"	" 775"	" 2"	" 0"	352.272727272727	5
+"Green Knob/Sims Creek"	" 36.14276"	" -81.71942"	" http://www.hikingupward.com/NCSP/GreenKnobSimsCreek/"	" 2.3"	" 2"	" 2"	" 2"	" 615"	" 4"	" 0"	267.391304347826	5
+"Ingals Overlook"	" 38.05084"	" -79.76613"	" http://www.hikingupward.com/GWNF/IngalsOverlook/"	" 2.4"	" 1"	" 0"	" 3"	" 620"	" 4"	" 0"	258.333333333333	4
+"Hidden Rocks"	" 38.44813"	" -79.12205"	" http://www.hikingupward.com/GWNF/HiddenRocks/"	" 2.5"	" 2"	" 2"	" 4"	" 390"	" 4"	" 2"	156	2
+"Balls Bluff Battlefield"	" 39.13055"	" -77.53080"	" http://www.hikingupward.com/OVH/BallsBluffBattlefield/"	" 2.6"	" 1"	" 4"	" 2"	" 200"	" 1"	" 0"	76.9230769230769	1
+"Glen Burney Trail"	" 36.13243"	" -81.68061"	" http://www.hikingupward.com/NCSP/GlenBurneyTrail/"	" 2.7"	" 3"	" 4"	" 0"	" 735"	" 2"	" 0"	272.222222222222	5
+"Cumberland Knob"	" 36.55377"	" -80.90697"	" http://www.hikingupward.com/NCSP/CumberlandKnob/"	" 2.8"	" 3"	" 4"	" 1"	" 981"	" 5"	" 0"	350.357142857143	5
+"Saddle Mountain"	" 36.50348"	" -80.93451"	" http://www.hikingupward.com/NCSP/SaddleMountain/"	" 2.9"	" 2"	" 0"	" 1"	" 860"	" 5"	" 0"	296.551724137931	5
+"Mount Pisgah"	" 35.41537"	" -82.74876"	" http://www.hikingupward.com/PNF/MountPisgah/"	" 2.9"	" 3"	" 0"	" 5"	" 890"	" 0"	" 0"	306.896551724138	5
+"Crabtree Falls"	" 35.81277"	" -82.14368"	" http://www.hikingupward.com/NCSP/CrabtreeFalls/"	" 3"	" 2"	" 5"	" 1"	" 740"	" 2"	" 3"	246.666666666667	4
+"Tibbet Knob"	" 38.92404"	" -78.68949"	" http://www.hikingupward.com/GWNF/TibbetKnob/"	" 3.1"	" 2"	" 0"	" 5"	" 830"	" 3"	" 3"	267.741935483871	5
+"Spy Rock"	" 37.84191"	" -79.13126"	" http://www.hikingupward.com/GWNF/SpyRock/"	" 3.1"	" 3"	" 0"	" 5"	" 1260"	" 3"	" 3"	406.451612903226	5
+"Falls Ridge Preserve"	" 37.19323"	" -80.32167"	" http://www.hikingupward.com/OVH/FallsRidgePreserve/"	" 3.3"	" 2"	" 3"	" 0"	" 610"	" 4"	" 0"	184.848484848485	3
+"Cedar Run"	" 38.55640"	" -78.38642"	" http://www.hikingupward.com/SNP/CedarRun/"	" 3.4"	" 3"	" 5"	" 1"	" 1510"	" 2"	" 1"	444.117647058824	5
+"Wahrani Nature Trail"	" 37.50588"	" -76.85952"	" http://www.hikingupward.com/OVH/Wahrani/"	" 3.5"	" 2"	" 3"	" 1"	" 280"	" 3"	" 0"	80	1
+"Frazier Discovery Trail"	" 38.25068"	" -78.66733"	" http://www.hikingupward.com/SNP/FrazierDiscovery/"	" 3.6"	" 2"	" 0"	" 4"	" 950"	" 2"	" 4"	263.888888888889	4
+"Peaks Of Otter"	" 37.44539"	" -79.60967"	" http://www.hikingupward.com/JNF/PeaksOfOtter/"	" 3.6"	" 4"	" 0"	" 5"	" 1540"	" 2"	" 0"	427.777777777778	5
+"Devils Bathtub"	" 36.81844"	" -82.62787"	" http://www.hikingupward.com/JNF/DevilsBathtub/"	" 3.6"	" 2"	" 5"	" 0"	" 580"	" 1"	" 1"	161.111111111111	2
+"Dead Run"	" 38.96436"	" -77.15294"	" http://www.hikingupward.com/OVH/DeadRun/"	" 3.6"	" 2"	" 4"	" 1"	" 452"	" 2"	" 0"	125.555555555556	1
+"School House Ridge"	" 39.30778"	" -77.77762"	" http://www.hikingupward.com/OWVH/SchoolHouseRidge/"	" 3.7"	" 1"	" 2"	" 3"	" 175"	" 3"	" 0"	47.2972972972973	1
+"Stony Man Mountain"	" 38.59259"	" -78.37558"	" http://www.hikingupward.com/SNP/StonyMan/"	" 3.7"	" 1"	" 0"	" 5"	" 860"	" 1"	" 0"	232.432432432432	4
+"Hollow Brook"	" 39.06926"	" -77.90280"	" http://www.hikingupward.com/OVH/HollowBrook/"	" 3.8"	" 2"	" 2"	" 2"	" 860"	" 3"	" 3"	226.315789473684	4
+"Hemlock Overlook"	" 38.76646"	" -77.40680"	" http://www.hikingupward.com/OVH/HemlockOverlook/"	" 3.8"	" 2"	" 5"	" 1"	" 390"	" 2"	" 0"	102.631578947368	1
+"Elk Knob"	" 36.33171"	" -81.68928"	" http://www.hikingupward.com/NCSP/ElkKnob/"	" 3.8"	" 2"	" 0"	" 4"	" 943"	" 3"	" 0"	248.157894736842	4
+"Catawba Falls"	" 35.61355"	" -82.23067"	" http://www.hikingupward.com/PNF/CatawbaFalls/"	" 3.9"	" 5"	" 6"	" 0"	" 863"	" 4"	" 0"	221.282051282051	3
+"Humpback Rocks"	" 37.96130"	" -78.90065"	" http://www.hikingupward.com/GWNF/HumpbackRocks/"	" 4"	" 4"	" 1"	" 4"	" 1240"	" 3"	" 0"	310	5
+"Buzzard Rock North"	" 38.93773"	" -78.28855"	" http://www.hikingupward.com/GWNF/BuzzardRockNorth/"	" 4"	" 2"	" 1"	" 5"	" 650"	" 2"	" 1"	162.5	2
+"Corbin Cabin"	" 38.61569"	" -78.35037"	" http://www.hikingupward.com/SNP/CorbinCabin/"	" 4"	" 3"	" 2"	" 1"	" 1240"	" 2"	" 2"	310	5
+"Trimble Mountain"	" 38.36252"	" -79.20564"	" http://www.hikingupward.com/GWNF/TrimbleMountain/"	" 4"	" 3"	" 1"	" 3"	" 1050"	" 4"	" 0"	262.5	4
+"Linville Falls"	" 35.95567"	" -81.92840"	" http://www.hikingupward.com/NCSP/LinvilleFalls/"	" 4.3"	" 3"	" 5"	" 4"	" 650"	" 3"	" 0"	151.162790697674	2
+"Wolf Run Shoals"	" 38.72804"	" -77.35877"	" http://www.hikingupward.com/OVH/WolfRunShoals/"	" 4.3"	" 2"	" 3"	" 2"	" 541"	" 2"	" 0"	125.813953488372	1
+"Mt. Jefferson"	" 36.40173"	" -81.46991"	" http://www.hikingupward.com/NCSP/MtJefferson/"	" 4.3"	" 2"	" 0"	" 4"	" 1416"	" 2"	" 0"	329.302325581395	5
+"Patricia Ann Byrom Forest Preserve"	" 38.22104"	" -78.64951"	" http://www.hikingupward.com/OVH/PatriciaAnnByromForestPreserve/"	" 4.3"	" 3"	" 1"	" 3"	" 1220"	" 4"	" 0"	283.720930232558	5
+"Big Schloss"	" 38.94113"	" -78.66606"	" http://www.hikingupward.com/GWNF/BigSchloss/"	" 4.4"	" 2"	" 0"	" 5"	" 1035"	" 2"	" 4"	235.227272727273	4
+"Antietam Burnside Bridge"	" 39.44980"	" -77.73191"	" http://www.hikingupward.com/OMH/AntietamBurnsideBridge/"	" 4.4"	" 2"	" 5"	" 2"	" 450"	" 1"	" 0"	102.272727272727	1
+"Dutch Gap"	" 37.37449"	" -77.36259"	" http://www.hikingupward.com/OVH/DutchGap/"	" 4.4"	" 1"	" 0"	" 4"	" 20"	" 3"	" 0"	4.54545454545454	1
+"Riverbend"	" 39.01887"	" -77.24635"	" http://www.hikingupward.com/OVH/RiverBend/"	" 4.5"	" 1"	" 2"	" 3"	" 290"	" 1"	" 0"	64.4444444444444	1
+"Antietam Bloody Lane"	" 39.46996"	" -77.73786"	" http://www.hikingupward.com/OMH/AntietamBloodyLane/"	" 4.6"	" 2"	" 2"	" 2"	" 230"	" 1"	" 0"	50	1
+"Greenbrier"	" 39.54049"	" -77.61602"	" http://www.hikingupward.com/OMH/GreenbrierStatePark/"	" 4.7"	" 3"	" 1"	" 2"	" 710"	" 1"	" 0"	151.063829787234	2
+"White Oak Canyon"	" 38.58613"	" -78.38273"	" http://www.hikingupward.com/SNP/WhiteOak/"	" 4.8"	" 3"	" 5"	" 1"	" 1200"	" 1"	" 1"	250	4
+"Ivy Creek"	" 38.09110"	" -78.49355"	" http://www.hikingupward.com/OVH/IvyCreek/"	" 4.8"	" 1"	" 4"	" 3"	" 520"	" 3"	" 0"	108.333333333333	1
+"The Priest"	" 37.82415"	" -79.07548"	" http://www.hikingupward.com/GWNF/ThePriest/"	" 4.8"	" 2"	" 0"	" 4"	" 1210"	" 3"	" 3"	252.083333333333	4
+"Bent Mountain Falls"	" 37.13324"	" -80.18267"	" http://www.hikingupward.com/OVH/BentMountainFalls/"	" 4.8"	" 3"	" 4"	" 2"	" 900"	" 3"	" 0"	187.5	3
+"Hone Quarry Ridge"	" 38.46007"	" -79.15630"	" http://www.hikingupward.com/GWNF/HoneQuarryRidge/"	" 5"	" 3"	" 1"	" 3"	" 1480"	" 4"	" 3"	296	5
+"Little Schloss/Out-Back"	" 38.92533"	" -78.63749"	" http://www.hikingupward.com/GWNF/LittleSchloss/"	" 5"	" 3"	" 0"	" 5"	" 1110"	" 4"	" 4"	222	3
+"Manassas Gap"	" 38.93064"	" -78.03277"	" http://www.hikingupward.com/OVH/ManassasGap/"	" 5"	" 3"	" 1"	" 2"	" 1055"	" 2"	" 3"	211	3
+"Moorman's River"	" 38.13932"	" -78.74967"	" http://www.hikingupward.com/SNP/MoormansRiver/"	" 5"	" 2"	" 4"	" 2"	" 460"	" 2"	" 0"	92	1
+"Motts Run Reservoir"	" 38.31673"	" -77.55764"	" http://www.hikingupward.com/OVH/MottsRunReservoir/"	" 5"	" 2"	" 4"	" 3"	" 605"	" 3"	" 0"	121	1
+"Difficult Run"	" 38.97838"	" -77.24913"	" http://www.hikingupward.com/OVH/DifficultRun/"	" 5.1"	" 2"	" 5"	" 5"	" 260"	" 1"	" 0"	50.9803921568627	1
+"Hidden Valley"	" 38.09401"	" -79.81623"	" http://www.hikingupward.com/GWNF/HiddenValley/"	" 5.1"	" 2"	" 5"	" 4"	" 450"	" 3"	" 3"	88.2352941176471	1
+"Little Bald Knob Ridge"	" 38.38924"	" -79.26338"	" http://www.hikingupward.com/GWNF/LittleBaldKnobRidge/"	" 5.2"	" 3"	" 3"	" 4"	" 1710"	" 4"	" 4"	328.846153846154	5
+"Deep Creek"	" 35.46415"	" -83.43524"	" http://www.hikingupward.com/GSMNP/DeepCreek/"	" 5.2"	" 2"	" 5"	" 1"	" 740"	" 1"	" 3"	142.307692307692	2
+"Sky Meadows Farms"	" 38.99042"	" -77.94693"	" http://www.hikingupward.com/OVH/SkyMeadowsFarms/"	" 5.2"	" 2"	" 1"	" 5"	" 580"	" 3"	" 0"	111.538461538462	1
+"Manassas Bull Run"	" 38.81266"	" -77.52135"	" http://www.hikingupward.com/OVH/ManassasBullRun/"	" 5.3"	" 2"	" 1"	" 2"	" 350"	" 2"	" 0"	66.0377358490566	1
+"Fortune's Cove"	" 37.78031"	" -78.89289"	" http://www.hikingupward.com/OVH/FortunesCove/"	" 5.3"	" 4"	" 2"	" 4"	" 1725"	" 4"	" 0"	325.471698113208	5
+"Maryland Heights"	" 39.32920"	" -77.73169"	" http://www.hikingupward.com/OMH/MarylandHeights/"	" 5.3"	" 3"	" 1"	" 5"	" 1600"	" 0"	" 0"	301.88679245283	5
+"Campbell Creek/Lanier Falls"	" 35.46397"	" -78.91422"	" http://www.hikingupward.com/NCSP/CampbellCreekLanierFalls/"	" 5.3"	" 2"	" 4"	" 0"	" 260"	" 3"	" 1"	49.0566037735849	1
+"Dickey Ridge"	" 38.87074"	" -78.20423"	" http://www.hikingupward.com/SNP/DickeyRidge/"	" 5.3"	" 2"	" 0"	" 3"	" 950"	" 2"	" 0"	179.245283018868	2
+"Flat Top Tower"	" 36.14928"	" -81.69288"	" http://www.hikingupward.com/NCSP/FlatTopTower/"	" 5.3"	" 2"	" 0"	" 5"	" 584"	" 2"	" 0"	110.188679245283	1
+"Raven Rocks"	" 39.11665"	" -77.85239"	" http://www.hikingupward.com/OVH/RavenRocks/"	" 5.5"	" 3"	" 2"	" 4"	" 1530"	" 3"	" 1"	278.181818181818	5
+"Big Devil's Stairs"	" 38.76790"	" -78.23351"	" http://www.hikingupward.com/SNP/BigDevilsStairs/"	" 5.5"	" 2"	" 1"	" 4"	" 1055"	" 2"	" 1"	191.818181818182	3
+"Mount Pleasant"	" 37.73919"	" -79.16901"	" http://www.hikingupward.com/GWNF/MountPleasant/"	" 5.5"	" 3"	" 0"	" 5"	" 1350"	" 2"	" 3"	245.454545454545	4
+"Apple Orchard Falls"	" 37.52963"	" -79.55298"	" http://www.hikingupward.com/JNF/AppleOrchardFalls/"	" 5.6"	" 3"	" 6"	" 1"	" 1680"	" 3"	" 4"	300	5
+"Hightop Mountain"	" 38.35612"	" -78.54493"	" http://www.hikingupward.com/SNP/HightopMountain/"	" 5.6"	" 3"	" 0"	" 4"	" 1480"	" 3"	" 0"	264.285714285714	4
+"Burke Lake"	" 38.76039"	" -77.30267"	" http://www.hikingupward.com/OVH/BurkeLake/"	" 5.6"	" 1"	" 0"	" 3"	" 30"	" 0"	" 0"	5.35714285714286	1
+"Dragon's Tooth"	" 37.37898"	" -80.15561"	" http://www.hikingupward.com/JNF/DragonsTooth/"	" 5.7"	" 4"	" 1"	" 5"	" 1505"	" 2"	" 3"	264.035087719298	4
+"Little Bennett RP South"	" 39.26402"	" -77.28180"	" http://www.hikingupward.com/OMH/LittleBennettRegionalParkSouth/"	" 5.8"	" 2"	" 1"	" 1"	" 495"	" 2"	" 3"	85.3448275862069	1
+"Cold Mountain"	" 37.75139"	" -79.20486"	" http://www.hikingupward.com/GWNF/ColdMountain/"	" 5.8"	" 3"	" 0"	" 5"	" 1490"	" 3"	" 3"	256.896551724138	4
+"Brandywine Recreation Area"	" 38.60004"	" -79.20224"	" http://www.hikingupward.com/GWNF/BrandywineRecreationArea/"	" 5.8"	" 5"	" 0"	" 5"	" 2110"	" 4"	" 5"	363.793103448276	5
+"Saddleback Mountain"	" 38.36487"	" -78.52786"	" http://www.hikingupward.com/SNP/SaddlebackMountain/"	" 5.9"	" 2"	" 1"	" 1"	" 1079"	" 4"	" 2"	182.881355932203	3
+"Big Run"	" 38.25424"	" -78.68290"	" http://www.hikingupward.com/SNP/BigRun/"	" 5.9"	" 3"	" 1"	" 2"	" 1405"	" 4"	" 0"	238.135593220339	4
+"Little Devils Stairs"	" 38.73060"	" -78.25827"	" http://www.hikingupward.com/SNP/LittleDevilsStairs/"	" 6"	" 3"	" 4"	" 1"	" 1480"	" 2"	" 1"	246.666666666667	4
+"Banshee Reeks"	" 39.02866"	" -77.59953"	" http://www.hikingupward.com/OVH/BansheeReeks/"	" 6"	" 1"	" 4"	" 3"	" 298"	" 2"	" 0"	49.6666666666667	1
+"Stairway To Heaven"	" 38.79383"	" -78.81551"	" http://www.hikingupward.com/OVH/StairwayToHeaven/"	" 6.2"	" 3"	" 1"	" 4"	" 1820"	" 2"	" 2"	293.548387096774	5
+"Little Bennett Regional Park"	" 39.26587"	" -77.28025"	" http://www.hikingupward.com/OMH/LittleBennettRegionalPark/"	" 6.2"	" 2"	" 2"	" 2"	" 540"	" 2"	" 4"	87.0967741935484	1
+"Fridley Gap"	" 38.49675"	" -78.70981"	" http://www.hikingupward.com/GWNF/FridleyGap/"	" 6.2"	" 4"	" 4"	" 2"	" 1860"	" 5"	" 4"	300	5
+"Manassas Groveton"	" 38.80734"	" -77.53489"	" http://www.hikingupward.com/OVH/ManassasGroveton/"	" 6.2"	" 2"	" 1"	" 2"	" 290"	" 2"	" 0"	46.7741935483871	1
+"BRCES"	" 39.29349"	" -77.72123"	" http://www.hikingupward.com/OVH/BRCES/"	" 6.2"	" 2"	" 3"	" 2"	" 700"	" 5"	" 0"	112.903225806452	1
+"James River"	" 37.53469"	" -77.44803"	" http://www.hikingupward.com/OVH/JamesRiver/"	" 6.3"	" 2"	" 5"	" 3"	" 160"	" 1"	" 0"	25.3968253968254	1
+"Long Mountain Ridge"	" 38.93065"	" -78.72442"	" http://www.hikingupward.com/GWNF/LongMountainRidge/"	" 6.3"	" 4"	" 1"	" 5"	" 1480"	" 5"	" 2"	234.920634920635	4
+"Hungry Mother"	" 36.88517"	" -81.52196"	" http://www.hikingupward.com/OVH/HungryMother/"	" 6.5"	" 3"	" 2"	" 4"	" 1323"	" 3"	" 0"	203.538461538462	3
+"Ashby Hollow"	" 39.07174"	" -77.91185"	" http://www.hikingupward.com/OVH/AshbyHollow/"	" 6.5"	" 3"	" 2"	" 1"	" 2005"	" 3"	" 2"	308.461538461538	5
+"Cacapon Resort"	" 39.50618"	" -78.29972"	" http://www.hikingupward.com/OWVH/CacaponResortStatePark/"	" 6.6"	" 3"	" 1"	" 2"	" 1450"	" 4"	" 0"	219.69696969697	3
+"Kepler Overlook"	" 38.97137"	" -78.56316"	" http://www.hikingupward.com/GWNF/KeplerOverlook/"	" 6.6"	" 3"	" 3"	" 5"	" 1185"	" 4"	" 5"	179.545454545455	2
+"Jones Run/Doyles River"	" 38.22943"	" -78.70464"	" http://www.hikingupward.com/SNP/JonesRunDoylesRiver/"	" 6.6"	" 3"	" 6"	" 1"	" 1455"	" 1"	" 0"	220.454545454545	3
+"Great Channels"	" 36.86445"	" -81.94690"	" http://www.hikingupward.com/JNF/GreatChannels/"	" 6.6"	" 3"	" 0"	" 2"	" 1219"	" 3"	" 1"	184.69696969697	3
+"Trumbo Hollow"	" 38.90000"	" -78.06013"	" http://www.hikingupward.com/OVH/TrumboHollow/"	" 6.6"	" 3"	" 2"	" 4"	" 1055"	" 3"	" 3"	159.848484848485	2
+"Lake Moomaw"	" 37.97561"	" -79.98543"	" http://www.hikingupward.com/GWNF/LakeMoomaw/"	" 6.7"	" 3"	" 4"	" 3"	" 1260"	" 3"	" 6"	188.059701492537	3
+"Broad Hollow"	" 38.59430"	" -78.27176"	" http://www.hikingupward.com/SNP/BroadHollow/"	" 6.7"	" 3"	" 2"	" 2"	" 1640"	" 4"	" 1"	244.776119402985	4
+"Pleasant Grove"	" 37.86038"	" -78.27060"	" http://www.hikingupward.com/OVH/PleasantGrove/"	" 6.7"	" 2"	" 4"	" 2"	" 432"	" 3"	" 0"	64.4776119402985	1
+"Sugarloaf Mountain"	" 39.2605"	" -77.3903"	" http://www.hikingupward.com/OMH/SugarloafMountain/"	" 6.8"	" 3"	" 1"	" 4"	" 1265"	" 1"	" 0"	186.029411764706	3
+"Robertson Mountain"	" 38.54984"	" -78.33693"	" http://www.hikingupward.com/SNP/RobertsonMountain/"	" 6.8"	" 4"	" 2"	" 3"	" 2130"	" 3"	" 2"	313.235294117647	5
+"Dobie Mountain"	" 37.98122"	" -78.88186"	" http://www.hikingupward.com/GWNF/DobieMountain/"	" 6.8"	" 3"	" 2"	" 3"	" 1560"	" 3"	" 4"	229.411764705882	4
+"Falls Ridge"	" 38.89538"	" -78.74089"	" http://www.hikingupward.com/GWNF/FallsRidge/"	" 6.9"	" 4"	" 3"	" 3"	" 1745"	" 5"	" 2"	252.898550724638	4
+"Woodstock Equestrian Park"	" 39.18636"	" -77.42075"	" http://www.hikingupward.com/OMH/WoodstockEquestrianPark/"	" 6.9"	" 2"	" 1"	" 3"	" 580"	" 4"	" 0"	84.0579710144928	1
+"Buckquarter Creek/Holden Mill"	" 36.07816"	" -79.00709"	" http://www.hikingupward.com/NCSP/BuckquarterCreekHoldenMill/"	" 7"	" 2"	" 4"	" 1"	" 750"	" 2"	" 2"	107.142857142857	1
+"High Peak"	" 38.90615"	" -78.32707"	" http://www.hikingupward.com/GWNF/HighPeak/"	" 7"	" 3"	" 1"	" 3"	" 1650"	" 2"	" 2"	235.714285714286	4
+"Buzzard Rock"	" 38.94138"	" -78.30188"	" http://www.hikingupward.com/GWNF/BuzzardRock/"	" 7"	" 3"	" 1"	" 2"	" 2510"	" 2"	" 2"	358.571428571429	5
+"Hardscrabble Knob"	" 38.36879"	" -79.27358"	" http://www.hikingupward.com/GWNF/HardscrabbleKnob/"	" 7"	" 4"	" 0"	" 3"	" 2050"	" 4"	" 4"	292.857142857143	5
+"Beards Mountain"	" 37.90144"	" -79.78736"	" http://www.hikingupward.com/OVH/BeardsMountain/"	" 7"	" 2"	" 2"	" 5"	" 1455"	" 4"	" 0"	207.857142857143	3
+"Sky Meadows"	" 38.99144"	" -77.96591"	" http://www.hikingupward.com/OVH/SkyMeadows/"	" 7.1"	" 2"	" 1"	" 6"	" 1292"	" 1"	" 2"	181.971830985915	3
+"Prince William Forest"	" 38.58248"	" -77.37336"	" http://www.hikingupward.com/OVH/PrinceWilliam/"	" 7.1"	" 2"	" 4"	" 1"	" 620"	" 2"	" 2"	87.3239436619718	1
+"Max Patch"	" 35.77318"	" -82.9957"	" http://www.hikingupward.com/PNF/MaxPatch/"	" 7.1"	" 3"	" 0"	" 6"	" 2061"	" 2"	" 4"	290.281690140845	5
+"Eagle Rock"	" 39.10961"	" -78.47809"	" http://www.hikingupward.com/GWNF/EagleRock/"	" 7.2"	" 3"	" 0"	" 5"	" 1065"	" 3"	" 2"	147.916666666667	2
+"Elk Garden/Buzzard Rock"	" 36.64627"	" -81.58335"	" http://www.hikingupward.com/JNF/ElkGardenBuzzardRock/"	" 7.2"	" 3"	" 0"	" 5"	" 1095"	" 4"	" 3"	152.083333333333	2
+"Fountainhead Regional Park"	" 38.72658"	" -77.32113"	" http://www.hikingupward.com/OVH/Fountainhead/"	" 7.2"	" 2"	" 2"	" 3"	" 710"	" 3"	" 0"	98.6111111111111	1
+"Bearwallow Mountain/Blue Ridge Pastures"	" 35.46042"	" -82.36845"	" http://www.hikingupward.com/NCSP/BearwallowMtnBlueRidgePastures/"	" 7.3"	" 3"	" 0"	" 5"	" 2150"	" 2"	" 0"	294.520547945205	5
+"House Mountain"	" 37.8116"	" -79.53266"	" http://www.hikingupward.com/OVH/HouseMountain/"	" 7.3"	" 5"	" 0"	" 5"	" 2850"	" 4"	" 3"	390.41095890411	5
+"North Harper Creek Falls"	" 36.00431"	" -81.84016"	" http://www.hikingupward.com/PNF/NorthHarperCreekFalls/"	" 7.3"	" 3"	" 5"	" 1"	" 1200"	" 3"	" 6"	164.383561643836	2
+"Otter Creek"	" 37.55543"	" -79.36547"	" http://www.hikingupward.com/GWNF/OtterCreek/"	" 7.4"	" 3"	" 5"	" 2"	" 640"	" 3"	" 0"	86.4864864864865	1
+"Lookout Mountain"	" 35.64269"	" -82.29094"	" http://www.hikingupward.com/NCSP/LookoutMountain/"	" 7.4"	" 3"	" 0"	" 5"	" 1865"	" 2"	" 0"	252.027027027027	4
+"Cove Mountain"	" 37.52123"	" -79.62433"	" http://www.hikingupward.com/JNF/CoveMountain/"	" 7.5"	" 3"	" 2"	" 4"	" 1950"	" 4"	" 2"	260	4
+"Mason Neck"	" 38.64235"	" -77.19871"	" http://www.hikingupward.com/OVH/MasonNeck/"	" 7.5"	" 2"	" 0"	" 3"	" 85"	" 1"	" 0"	11.3333333333333	1
+"Hogback Mountain"	" 38.75058"	" -78.29415"	" http://www.hikingupward.com/SNP/HogbackMountain/"	" 7.5"	" 3"	" 1"	" 5"	" 1225"	" 2"	" 1"	163.333333333333	2
+"Camp Hoover"	" 38.49985"	" -78.44556"	" http://www.hikingupward.com/SNP/CampHoover/"	" 7.6"	" 3"	" 3"	" 1"	" 1320"	" 2"	" 1"	173.684210526316	2
+"Three Top Mountain"	" 38.93564"	" -78.37183"	" http://www.hikingupward.com/GWNF/ThreeTopMountain/"	" 7.6"	" 2"	" 1"	" 2"	" 780"	" 3"	" 2"	102.631578947368	1
+"Tinker Cliffs"	" 37.45754"	" -80.01730"	" http://www.hikingupward.com/JNF/TinkerCliffsAndyLayneTrail/"	" 7.7"	" 4"	" 3"	" 4"	" 1945"	" 3"	" 0"	252.597402597403	4
+"Sunset Rocks"	" 40.03173"	" -77.30540"	" http://www.hikingupward.com/OPH/SunsetRocks/"	" 7.7"	" 3"	" 3"	" 4"	" 1340"	" 2"	" 3"	174.025974025974	2
+"Keys Gap/Buzzard Rocks"	" 39.26180"	" -77.76241"	" http://www.hikingupward.com/OVH/KeysGapBuzzardRocks/"	" 7.7"	" 3"	" 0"	" 3"	" 995"	" 3"	" 3"	129.220779220779	2
+"Fallingwater Cascades/Flat Top"	" 37.46846"	" -79.58028"	" http://www.hikingupward.com/JNF/FallingwaterCascadesFlatTop/"	" 7.7"	" 3"	" 4"	" 4"	" 2115"	" 3"	" 0"	274.675324675325	5
+"Veach Gap"	" 38.87618"	" -78.37623"	" http://www.hikingupward.com/GWNF/VeachGap/"	" 7.8"	" 2"	" 2"	" 4"	" 1050"	" 3"	" 2"	134.615384615385	2
+"Billy Goat Trail"	" 39.00224"	" -77.24664"	" http://www.hikingupward.com/OMH/BillyGoatTrail/"	" 7.8"	" 3"	" 6"	" 5"	" 480"	" 0"	" 0"	61.5384615384615	1
+"GR Thompson Wildlife Management Area"	" 38.95740"	" -77.98902"	" http://www.hikingupward.com/OVH/GRThompsonWildlifeManagementArea/"	" 7.9"	" 2"	" 1"	" 1"	" 1670"	" 2"	" 2"	211.392405063291	3
+"Annapolis Rock/Black Rock Cliff"	" 39.57324"	" -77.59726"	" http://www.hikingupward.com/OMH/AnnapolisRockBlackRockCliff/"	" 7.9"	" 2"	" 0"	" 4"	" 840"	" 0"	" 3"	106.329113924051	1
+"Oak Knob"	" 38.48501"	" -79.13387"	" http://www.hikingupward.com/GWNF/OakKnob/"	" 7.9"	" 4"	" 1"	" 4"	" 2250"	" 4"	" 2"	284.810126582278	5
+"Carvin Cove/Hay Rock"	" 37.39086"	" -79.90620"	" http://www.hikingupward.com/JNF/CarvinCoveHayRock/"	" 8"	" 4"	" 4"	" 4"	" 1640"	" 3"	" 0"	205	3
+"Nicholson Hollow"	" 38.60016"	" -78.33300"	" http://www.hikingupward.com/SNP/NicholsonHollow/"	" 8"	" 2"	" 4"	" 1"	" 1240"	" 3"	" 1"	155	2
+"High Shoals Falls"	" 35.60246"	" -81.62908"	" http://www.hikingupward.com/NCSP/HighShoalsFalls/"	" 8"	" 3"	" 5"	" 1"	" 1745"	" 3"	" 4"	218.125	3
+"Emerald Pond"	" 38.64278"	" -78.61138"	" http://www.hikingupward.com/GWNF/EmeraldPond/"	" 8"	" 3"	" 0"	" 4"	" 1690"	" 3"	" 3"	211.25	3
+"Appomattox History Trail"	" 37.37549"	" -78.80565"	" http://www.hikingupward.com/OVH/AppomattoxHistoryTrail/"	" 8.2"	" 2"	" 4"	" 2"	" 750"	" 3"	" 0"	91.4634146341463	1
+"Indian Creek"	" 36.42964"	" -80.24899"	" http://www.hikingupward.com/NCSP/IndianCreek/"	" 8.2"	" 2"	" 3"	" 1"	" 1339"	" 2"	" 0"	163.292682926829	2
+"High Falls"	" 38.75026"	" -79.75177"	" http://www.hikingupward.com/MNF/HighFalls/"	" 8.2"	" 3"	" 3"	" 2"	" 1440"	" 4"	" 2"	175.609756097561	2
+"Goshen Pass/Jump Rock"	" 37.94853"	" -79.46023"	" http://www.hikingupward.com/OVH/GoshenPassJumpRock/"	" 8.2"	" 4"	" 3"	" 5"	" 2480"	" 4"	" 0"	302.439024390244	5
+"Shenandoah River"	" 38.84782"	" -78.30602"	" http://www.hikingupward.com/OVH/ShenandoahRiver/"	" 8.2"	" 2"	" 5"	" 3"	" 650"	" 3"	" 0"	79.2682926829268	1
+"White Oak/Cedar Run"	" 38.53927"	" -78.34935"	" http://www.hikingupward.com/SNP/WhiteOakCedarRun/"	" 8.3"	" 4"	" 5"	" 1"	" 2450"	" 1"	" 1"	295.180722891566	5
+"McAfee Knob"	" 37.38010"	" -80.08956"	" http://www.hikingupward.com/JNF/McAfeeKnob/"	" 8.3"	" 3"	" 0"	" 5"	" 1740"	" 1"	" 3"	209.638554216867	3
+"Devil's Marbleyard"	" 37.57119"	" -79.49190"	" http://www.hikingupward.com/JNF/DevilsMarbleyard/"	" 8.3"	" 3"	" 1"	" 4"	" 1510"	" 3"	" 3"	181.927710843373	3
+"Jerry's Run"	" 38.34064"	" -79.34757"	" http://www.hikingupward.com/GWNF/JerrysRun/"	" 8.3"	" 3"	" 4"	" 4"	" 1175"	" 4"	" 5"	141.566265060241	2
+"Boone Fork/Price Lake"	" 36.13606"	" -81.73794"	" http://www.hikingupward.com/NCSP/BooneForkPriceLake/"	" 8.4"	" 3"	" 4"	" 3"	" 660"	" 1"	" 0"	78.5714285714286	1
+"The Cascades/Barneys Wall"	" 37.35337"	" -80.59969"	" http://www.hikingupward.com/JNF/TheCascadesBarneysWall/"	" 8.4"	" 3"	" 5"	" 4"	" 1600"	" 1"	" 1"	190.47619047619	3
+"Catoctin Mountain Park"	" 39.62895"	" -77.43282"	" http://www.hikingupward.com/OMH/CatoctinMountainPark/"	" 8.4"	" 3"	" 3"	" 5"	" 1370"	" 0"	" 0"	163.095238095238	2
+"Harpers Ferry/Loudoun Heights"	" 39.31873"	" -77.72279"	" http://www.hikingupward.com/OWVH/HarpersFerryLoudounHeights/"	" 8.5"	" 3"	" 5"	" 4"	" 1880"	" 2"	" 1"	221.176470588235	3
+"Overall Run/Beecher"	" 38.80194"	" -78.31461"	" http://www.hikingupward.com/SNP/OverallRunBeecherRidge/"	" 8.5"	" 4"	" 5"	" 4"	" 1965"	" 2"	" 1"	231.176470588235	4
+"Ashby Gap"	" 39.01688"	" -77.96214"	" http://www.hikingupward.com/OVH/AshbyGap/"	" 8.5"	" 3"	" 2"	" 1"	" 1520"	" 4"	" 2"	178.823529411765	2
+"Bear Church Rock"	" 38.43695"	" -78.36710"	" http://www.hikingupward.com/SNP/BearChurchRock/"	" 8.5"	" 4"	" 5"	" 4"	" 2210"	" 3"	" 3"	260	4
+"Chester Gap/Jenkins Gap"	" 38.87797"	" -78.15074"	" http://www.hikingupward.com/SNP/ChesterGapJenkinsGap/"	" 8.5"	" 4"	" 1"	" 4"	" 2475"	" 3"	" 1"	291.176470588235	5
+"Hawksbill Mtn"	" Sitting Bear Mtn"	" Devil's Hole\""	" new google.maps.LatLng(35.92263"	" -81.88692)"	" http://www.hikingupward.com/PNF/HawksbillMtnSittingBearMtnDevilsHole/"	" 8.5"	" 5"	" 3"	" 5"	" 3078, 3, 5"		
+"Double Bear Rocks"	" 38.66855"	" -78.28999"	" http://www.hikingupward.com/SNP/DoubleBearRocks/"	" 8.5"	" 3"	" 0"	" 4"	" 1750"	" 3"	" 2"	205.882352941176	3
+"Little North Mountain"	" 38.97237"	" -78.52143"	" http://www.hikingupward.com/GWNF/LittleNorthMountain/"	" 8.5"	" 3"	" 2"	" 5"	" 1260"	" 5"	" 3"	148.235294117647	2
+"Duncan Knob"	" 38.69127"	" -78.58014"	" http://www.hikingupward.com/GWNF/DuncanKnob/"	" 8.5"	" 4"	" 1"	" 5"	" 1510"	" 3"	" 4"	177.647058823529	2
+"Elliot Knob"	" 38.16125"	" -79.26927"	" http://www.hikingupward.com/GWNF/ElliotKnob/"	" 8.5"	" 4"	" 3"	" 4"	" 2425"	" 4"	" 3"	285.294117647059	5
+"Meneka Peak"	" 38.93537"	" -78.31953"	" http://www.hikingupward.com/GWNF/MenekaPeak/"	" 8.6"	" 3"	" 1"	" 4"	" 2075"	" 3"	" 3"	241.279069767442	4
+"Indian Grave Ridge"	" 38.79389"	" -78.38486"	" http://www.hikingupward.com/GWNF/IndianGraveRidge/"	" 8.6"	" 3"	" 3"	" 4"	" 1550"	" 4"	" 3"	180.232558139535	2
+"Strickler Knob"	" 38.66285"	" -78.59838"	" http://www.hikingupward.com/GWNF/StricklerKnob/"	" 8.6"	" 5"	" 1"	" 6"	" 2140"	" 3"	" 2"	248.837209302326	4
+"Swannanoa Mountains"	" 35.58879"	" -82.33913"	" http://www.hikingupward.com/NCSP/SwannanoaMountains/"	" 8.6"	" 4"	" 0"	" 4"	" 2870"	" 5"	" 0"	333.720930232558	5
+"Sand Flat/Salamander Trail"	" 39.56193"	" -77.49840"	" http://www.hikingupward.com/OMH/SandFlatSalamanderTrail/"	" 8.7"	" 3"	" 1"	" 2"	" 1010"	" 1"	" 0"	116.091954022989	1
+"Laurel Run"	" 38.88885"	" -78.72940"	" http://www.hikingupward.com/GWNF/LaurelRun/"	" 8.8"	" 3"	" 1"	" 5"	" 2100"	" 4"	" 4"	238.636363636364	4
+"Shawl Gap"	" 38.89485"	" -78.3043"	" http://www.hikingupward.com/GWNF/ShawlGap/"	" 8.9"	" 3"	" 1"	" 3"	" 1740"	" 3"	" 2"	195.505617977528	3
+"Little Crease Mountain"	" 38.88597"	" -78.33232"	" http://www.hikingupward.com/GWNF/LittleCreaseMountain/"	" 8.9"	" 3"	" 3"	" 3"	" 1760"	" 3"	" 2"	197.752808988764	3
+"Rich Mountain"	" 36.16226"	" -81.70938"	" http://www.hikingupward.com/NCSP/RichMountain/"	" 9"	" 3"	" 2"	" 3"	" 853"	" 2"	" 0"	94.7777777777778	1
+"Stone Mountain/Wolf Rock"	" 36.38400"	" -81.02803"	" http://www.hikingupward.com/NCSP/StoneMountainWolfRock/"	" 9"	" 3"	" 3"	" 4"	" 1550"	" 1"	" 0"	172.222222222222	2
+"Morgan Run"	" 38.52517"	" -78.66075"	" http://www.hikingupward.com/GWNF/MorganRun/"	" 9"	" 3"	" 4"	" 2"	" 1850"	" 5"	" 4"	205.555555555556	3
+"Buck Hollow/Mary's Rock"	" 38.65788"	" -78.28085"	" http://www.hikingupward.com/SNP/BuckHollowMarysRock/"	" 9"	" 4"	" 3"	" 4"	" 2600"	" 2"	" 2"	288.888888888889	5
+"Buzzard Hill"	" 39.10961"	" -77.84903"	" http://www.hikingupward.com/OVH/BuzzardHill/"	" 9"	" 4"	" 3"	" 2"	" 3020"	" 3"	" 3"	335.555555555556	5
+"Piney Branch"	" 38.72623"	" -78.28372"	" http://www.hikingupward.com/SNP/PineyBranch/"	" 9"	" 4"	" 4"	" 1"	" 1980"	" 4"	" 1"	220	3
+"C&O Canal/Weaverton Cliff"	" 39.33206"	" -77.67655"	" http://www.hikingupward.com/OMH/CandOCanalWeavertonCliff/"	" 9"	" 3"	" 5"	" 4"	" 1600"	" 1"	" 1"	177.777777777778	2
+"Old Rag Mountain"	" 38.55351"	" -78.30395"	" http://www.hikingupward.com/SNP/OldRag/"	" 9.1"	" 4"	" 2"	" 6"	" 2415"	" 0"	" 1"	265.384615384615	4
+"Torry Ridge"	" 37.89626"	" -79.04537"	" http://www.hikingupward.com/GWNF/TorryRidge/"	" 9.1"	" 4"	" 3"	" 4"	" 1700"	" 3"	" 1"	186.813186813187	3
+"Long Mountain"	" 38.98869"	" -78.67766"	" http://www.hikingupward.com/GWNF/LongMountain/"	" 9.2"	" 5"	" 2"	" 3"	" 2110"	" 5"	" 3"	229.347826086957	4
+"Hawksbill Franklin Cliffs"	" 38.55231"	" -78.40917"	" http://www.hikingupward.com/SNP/HawksbillFranklinCliffs/"	" 9.2"	" 3"	" 1"	" 6"	" 1980"	" 3"	" 1"	215.217391304348	3
+"Hazel River"	" 38.63831"	" -78.31369"	" http://www.hikingupward.com/SNP/HazelRiver/"	" 9.2"	" 4"	" 3"	" 2"	" 2150"	" 3"	" 1"	233.695652173913	4
+"Grooms Ridge/Chestnut Ridge"	" 38.38156"	" -79.18791"	" http://www.hikingupward.com/GWNF/GroomsRidgeChestnutridge/"	" 9.2"	" 4"	" 2"	" 3"	" 2570"	" 4"	" 2"	279.347826086957	5
+"Trayfoot Mountain/Paine Run"	" 38.206842"	" -78.749466"	" http://www.hikingupward.com/SNP/TrayfootMountainPaineRun/"	" 9.2"	" 4"	" 4"	" 5"	" 2200"	" 4"	" 4"	239.130434782609	4
+"Kennedy Peak"	" 38.74174"	" -78.48744"	" http://www.hikingupward.com/GWNF/KennedyPeak/"	" 9.2"	" 3"	" 1"	" 5"	" 1590"	" 2"	" 3"	172.826086956522	2
+"Mountain Lake Wilderness"	" 37.39084"	" -80.50795"	" http://www.hikingupward.com/JNF/MountainLakeWilderness/"	" 9.3"	" 3"	" 0"	" 3"	" 1560"	" 4"	" 2"	167.741935483871	2
+"Pilot Mountain"	" 36.34228"	" -80.46389"	" http://www.hikingupward.com/NCSP/PilotMountain/"	" 9.3"	" 3"	" 0"	" 5"	" 2090"	" 1"	" 0"	224.731182795699	3
+"Three Falls"	" 38.53070"	" -78.43966"	" http://www.hikingupward.com/SNP/ThreeFalls/"	" 9.3"	" 4"	" 4"	" 3"	" 2205"	" 2"	" 1"	237.096774193548	4
+"Blue Suck Falls"	" 37.90169"	" -79.82926"	" http://www.hikingupward.com/OVH/BlueSuckFalls/"	" 9.4"	" 4"	" 2"	" 5"	" 2205"	" 3"	" 0"	234.574468085106	4
+"Slabcamp Run"	" 38.53468"	" -79.63372"	" http://www.hikingupward.com/GWNF/SlabcampRunLocustSpring/"	" 9.4"	" 4"	" 5"	" 1"	" 1450"	" 5"	" 4"	154.255319148936	2
+"Trout Pond"	" 38.95679"	" -78.74322"	" http://www.hikingupward.com/GWNF/TroutPond/"	" 9.4"	" 4"	" 1"	" 4"	" 1660"	" 2"	" 5"	176.595744680851	2
+"Kelly Knob"	" 37.35142"	" -80.37924"	" http://www.hikingupward.com/JNF/KellyKnob/"	" 9.4"	" 4"	" 2"	" 4"	" 2220"	" 3"	" 3"	236.170212765957	4
+"Sams Ridge/Catlett Spur"	" 38.61433"	" -78.25647"	" http://www.hikingupward.com/SNP/SamsRidgeCatlettSpur/"	" 9.4"	" 4"	" 1"	" 1"	" 2290"	" 3"	" 1"	243.617021276596	4
+"Riprap Hollow"	" 38.17711"	" -78.76509"	" http://www.hikingupward.com/SNP/RiprapHollow/"	" 9.5"	" 4"	" 3"	" 4"	" 2225"	" 3"	" 1"	234.210526315789	4
+"Rocky Mount"	" 38.29877"	" -78.64666"	" http://www.hikingupward.com/SNP/RockyMount/"	" 9.5"	" 5"	" 1"	" 4"	" 2840"	" 3"	" 2"	298.947368421053	5
+"Hoop Hole"	" 37.67311"	" -79.91759"	" http://www.hikingupward.com/JNF/HoopHole/"	" 9.7"	" 4"	" 2"	" 1"	" 2270"	" 3"	" 3"	234.020618556701	4
+"White Rocks"	" 38.97464"	" -78.58640"	" http://www.hikingupward.com/GWNF/WhiteRocks/"	" 9.8"	" 3"	" 3"	" 4"	" 1840"	" 4"	" 5"	187.755102040816	3
+"High Bridge"	" 37.30441"	" -78.39110"	" http://www.hikingupward.com/OVH/HighBridge/"	" 9.8"	" 2"	" 3"	" 3"	" 80"	" 3"	" 0"	8.16326530612245	1
+"Signal Knob"	" 38.96087"	" -78.33055"	" http://www.hikingupward.com/GWNF/SignalKnob/"	" 9.9"	" 4"	" 2"	" 5"	" 2680"	" 3"	" 4"	270.707070707071	5
+"Little PassageCreek"	" 38.92267"	" -78.38056"	" http://www.hikingupward.com/GWNF/LittlePassageCreek/"	" 10"	" 2"	" 1"	" 2"	" 1320"	" 2"	" 3"	132	2
+"Terrapin Mountain"	" 37.53088"	" -79.42825"	" http://www.hikingupward.com/JNF/TerrapinMountain/"	" 10.1"	" 4"	" 2"	" 4"	" 2658"	" 5"	" 1"	263.168316831683	4
+"St. Mary's Wilderness"	" 37.91163"	" -79.08680"	" http://www.hikingupward.com/GWNF/StMarysWilderness/"	" 10.1"	" 4"	" 2"	" 3"	" 2190"	" 3"	" 3"	216.831683168317	3
+"Forks of Red Creek"	" 39.03348"	" -79.31424"	" http://www.hikingupward.com/MNF/ForksRedCreek/"	" 10.1"	" 3"	" 5"	" 5"	" 1590"	" 3"	" 3"	157.425742574257	2
+"Stony Mountain"	" 38.51463"	" -78.36625"	" http://www.hikingupward.com/SNP/StonyMountain/"	" 10.1"	" 4"	" 2"	" 2"	" 1840"	" 3"	" 1"	182.178217821782	3
+"South River Falls"	" 38.38115"	" -78.51707"	" http://www.hikingupward.com/SNP/SouthRiverFalls/"	" 10.4"	" 3"	" 3"	" 2"	" 2300"	" 3"	" 0"	221.153846153846	3
+"Turk Mountain"	" 38.09770"	" -78.78101"	" http://www.hikingupward.com/SNP/TurkMountain/"	" 10.4"	" 4"	" 4"	" 4"	" 2390"	" 3"	" 0"	229.807692307692	4
+"Catlett Mountain"	" 38.60967"	" -78.30318"	" http://www.hikingupward.com/SNP/CatlettMountain/"	" 10.5"	" 4"	" 3"	" 1"	" 2010"	" 4"	" 2"	191.428571428571	3
+"Roaring Run"	" 38.55755"	" -78.63550"	" http://www.hikingupward.com/GWNF/RoaringRun/"	" 10.5"	" 4"	" 3"	" 3"	" 2360"	" 5"	" 5"	224.761904761905	3
+"Thornton River"	" 38.72388"	" -78.31994"	" http://www.hikingupward.com/SNP/ThorntonRiver/"	" 10.5"	" 3"	" 4"	" 2"	" 2180"	" 2"	" 2"	207.619047619048	3
+"Halfmoon Mountain"	" 39.01431"	" -78.66388"	" http://www.hikingupward.com/GWNF/HalfmoonMountain/"	" 10.6"	" 4"	" 4"	" 5"	" 2120"	" 3"	" 4"	200	3
+"Rock Castle Gorge"	" 36.80759"	" -80.33105"	" http://www.hikingupward.com/OVH/RockCastleGorge/"	" 10.7"	" 4"	" 3"	" 4"	" 2490"	" 3"	" 3"	232.710280373832	4
+"Dolly Sods North"	" 39.06352"	" -79.30326"	" http://www.hikingupward.com/MNF/DollySodsNorth/"	" 10.8"	" 3"	" 2"	" 5"	" 1050"	" 3"	" 2"	97.2222222222222	1
+"Corbin Mountain"	" 38.57082"	" -78.28787"	" http://www.hikingupward.com/SNP/CorbinMountain/"	" 11"	" 4"	" 4"	" 1"	" 2370"	" 3"	" 2"	215.454545454545	3
+"Sand Spring Mountain"	" 38.39335"	" -79.15658"	" http://www.hikingupward.com/GWNF/SandSpringMountain/"	" 11"	" 5"	" 1"	" 1"	" 2670"	" 5"	" 2"	242.727272727273	4
+"Basin Creek"	" 36.37524"	" -81.14460"	" http://www.hikingupward.com/NCSP/BasinCreek/"	" 11"	" 3"	" 5"	" 1"	" 1815"	" 5"	" 4"	165	2
+"Pinch In/Rock Jock/Linville Gorge"	" 35.85150"	" -81.91742"	" http://www.hikingupward.com/PNF/PinchInRockJockLinvilleGorge/"	" 11.1"	" 6"	" 3"	" 4"	" 3640"	" 5"	" 4"	327.927927927928	5
+"Lane Pinnacle"	" 35.66439"	" -82.47912"	" http://www.hikingupward.com/PNF/LanePinnacle/"	" 11.1"	" 4"	" 0"	" 3"	" 2960"	" 3"	" 0"	266.666666666667	4
+"Hanging Rock"	" 36.39407"	" -80.26664"	" http://www.hikingupward.com/NCSP/HangingRock/"	" 11.1"	" 4"	" 2"	" 5"	" 2150"	" 3"	" 0"	193.693693693694	3
+"Cranny Crow/Big Ridge"	" 38.89581"	" -78.91462"	" http://www.hikingupward.com/OWVH/CrannyCrowBigRidge/"	" 11.1"	" 3"	" 1"	" 5"	" 2150"	" 3"	" 0"	193.693693693694	3
+"Sugar Knob"	" 39.01598"	" -78.60527"	" http://www.hikingupward.com/GWNF/SugarKnob/"	" 11.2"	" 3"	" 5"	" 2"	" 2070"	" 3"	" 5"	184.821428571429	3
+"Blackrock Mountain/The Pinnacle"	" 35.45641"	" -83.14319"	" http://www.hikingupward.com/NCSP/BlackrockMountainThePinnacle/"	" 11.3"	" 6"	" 0"	" 6"	" 3324"	" 4"	" 1"	294.159292035398	5
+"Grandfather Mountain/Profile Trail"	" 36.12174"	" -81.82987"	" http://www.hikingupward.com/NCSP/GrandfatherMountainProfileTrail/"	" 11.3"	" 6"	" 1"	" 6"	" 4035"	" 2"	" 4"	357.079646017699	5
+"Gerhard Shelter"	" 39.04281"	" -78.55752"	" http://www.hikingupward.com/GWNF/GerhardShelter/"	" 11.4"	" 4"	" 2"	" 4"	" 1890"	" 5"	" 2"	165.789473684211	2
+"Leading Ridge"	" 38.74377"	" -79.60224"	" http://www.hikingupward.com/MNF/BigRunLeadingRidge/"	" 11.4"	" 3"	" 4"	" 2"	" 700"	" 5"	" 5"	61.4035087719298	1
+"Little Pisgah Mountain"	" 35.47340"	" -82.33229"	" http://www.hikingupward.com/NCSP/LittlePisgahMountainFlorenceNaturePreserve/"	" 11.5"	" 3"	" 2"	" 5"	" 2671"	" 4"	" 0"	232.260869565217	4
+"Grandfather Mountain/Daniel Boone"	" 36.11986"	" -81.78131"	" http://www.hikingupward.com/NCSP/GrandfatherMountainDanielBoone/"	" 11.5"	" 6"	" 0"	" 6"	" 3378"	" 2"	" 3"	293.739130434783	5
+"Mill Mountain"	" 38.93795"	" -78.64623"	" http://www.hikingupward.com/GWNF/MillMountain/"	" 11.6"	" 5"	" 4"	" 3"	" 2340"	" 5"	" 4"	201.724137931034	3
+"Great North Mountain"	" 38.88144"	" -78.75965"	" http://www.hikingupward.com/GWNF/GreatNorthMountain/"	" 11.7"	" 6"	" 3"	" 3"	" 2390"	" 5"	" 2"	204.273504273504	3
+"Browns Hollow"	" 38.59462"	" -78.63126"	" http://www.hikingupward.com/GWNF/BrownsHollow/"	" 11.7"	" 4"	" 3"	" 4"	" 2395"	" 4"	" 4"	204.700854700855	3
+"Jones Mountain"	" 38.46837"	" -78.45743"	" http://www.hikingupward.com/SNP/JonesMountain/"	" 11.8"	" 5"	" 4"	" 4"	" 3397"	" 3"	" 2"	287.881355932203	5
+"Birkhead Mountains Wilderness"	" 35.63663"	" -79.90457"	" http://www.hikingupward.com/UNF/BirkheadMountainsWilderness/"	" 12"	" 3"	" 3"	" 1"	" 1062"	" 4"	" 5"	88.5	1
+"Bald Knob/Dobson Knob"	" 35.78946"	" -82.01391"	" http://www.hikingupward.com/PNF/BaldKnobDobsonKnob/"	" 12"	" 5"	" 1"	" 5"	" 3465"	" 5"	" 2"	288.75	5
+"Mt. Mitchell"	" 35.75129"	" -82.22026"	" http://www.hikingupward.com/PNF/MtMitchell/"	" 12"	" 5"	" 0"	" 5"	" 3684"	" 3"	" 3"	307	5
+"Black Balsam Knob"	" 35.30374"	" -82.90872"	" http://www.hikingupward.com/PNF/BlackBalsamKnob/"	" 12.1"	" 4"	" 2"	" 6"	" 2205"	" 3"	" 6"	182.231404958678	3
+"Big Rocky Row"	" 37.59681"	" -79.39101"	" http://www.hikingupward.com/GWNF/BigRockyRow/"	" 12.3"	" 4"	" 3"	" 4"	" 2694"	" 3"	" 3"	219.024390243902	3
+"Black Mountain Crest Trail"	" 35.87772"	" -82.28627"	" http://www.hikingupward.com/PNF/BlackMountainCrestTrail/"	" 12.4"	" 6"	" 0"	" 6"	" 5390"	" 3"	" 3"	434.677419354839	5
+"North River Gorge"	" 38.35928"	" -79.17580"	" http://www.hikingupward.com/GWNF/NorthRiverGorge/"	" 12.5"	" 4"	" 5"	" 3"	" 2070"	" 3"	" 3"	165.6	2
+"Kerns Mountain"	" 38.70896"	" -78.55962"	" http://www.hikingupward.com/GWNF/KernsMountain/"	" 12.5"	" 5"	" 1"	" 3"	" 2110"	" 4"	" 2"	168.8	2
+"Woods Mountain Trail"	" 35.77032"	" -82.16414"	" http://www.hikingupward.com/PNF/WoodsMountainTrail/"	" 12.6"	" 5"	" 0"	" 3"	" 3300"	" 5"	" 1"	261.904761904762	4
+"Devil's Garden Overlook"	" 36.39477"	" -81.06905"	" http://www.hikingupward.com/NCSP/DevilsGardenOverlook/"	" 12.7"	" 5"	" 3"	" 2"	" 3185"	" 5"	" 0"	250.787401574803	4
+"Mudhole Gap"	" 38.92997"	" -78.32788"	" http://www.hikingupward.com/GWNF/MudholeGap/"	" 12.7"	" 4"	" 3"	" 3"	" 2140"	" 2"	" 3"	168.503937007874	2
+"Allegheny/Seneca Creek"	" 38.71179"	" -79.54994"	" http://www.hikingupward.com/MNF/AlleghenySenecaCreek/"	" 12.7"	" 4"	" 5"	" 1"	" 1610"	" 3"	" 5"	126.771653543307	2
+"Overall Run/Heiskell"	" 38.78000"	" -78.35672"	" http://www.hikingupward.com/SNP/OverallRunHeiskellHollow/"	" 12.7"	" 4"	" 5"	" 4"	" 2390"	" 3"	" 1"	188.188976377953	3
+"Little Sluice Mountain"	" 38.93246"	" -78.61782"	" http://www.hikingupward.com/GWNF/LittleSluice/"	" 13"	" 5"	" 1"	" 4"	" 2100"	" 5"	" 4"	161.538461538462	2
+"Laurel Fork"	" 38.58542"	" -79.64230"	" http://www.hikingupward.com/GWNF/LaurelFork/"	" 13"	" 4"	" 5"	" 1"	" 1650"	" 4"	" 3"	126.923076923077	2
+"Duncan Knob Hollow"	" 38.72821"	" -78.51698"	" http://www.hikingupward.com/GWNF/DuncanKnobHollow/"	" 13"	" 4"	" 3"	" 4"	" 2560"	" 3"	" 5"	196.923076923077	3
+"Big Bald"	" 35.95238"	" -82.56080"	" http://www.hikingupward.com/PNF/BigBald/"	" 13.1"	" 4"	" 0"	" 5"	" 3270"	" 2"	" 4"	249.618320610687	4
+"Little Wilson Creek Wilderness"	" 36.64005"	" -81.48721"	" http://www.hikingupward.com/JNF/LittleWilsonCreekWilderness/"	" 13.1"	" 5"	" 3"	" 4"	" 2247"	" 5"	" 4"	171.526717557252	2
+"Little Schloss/Loop"	" 38.90833"	" -78.64085"	" http://www.hikingupward.com/GWNF/LittleSchloss/"	" 13.2"	" 4"	" 3"	" 5"	" 2220"	" 4"	" 5"	168.181818181818	2
+"Wintergreen"	" 37.94127"	" -78.93644"	" http://www.hikingupward.com/GWNF/Wintergreen/"	" 13.2"	" 6"	" 3"	" 5"	" 4008"	" 3"	" 0"	303.636363636364	5
+"Austin/Furnace Mountains"	" 38.24701"	" -78.76219"	" http://www.hikingupward.com/SNP/AustinFurnaceMountains/"	" 13.3"	" 5"	" 2"	" 5"	" 3045"	" 3"	" 1"	228.947368421053	4
+"High Meadows/Seneca Creek"	" 38.77776"	" -79.49007"	" http://www.hikingupward.com/MNF/HighMeadowsSenecaCreek/"	" 13.5"	" 4"	" 5"	" 4"	" 1210"	" 3"	" 5"	89.6296296296296	1
+"Crabtree Falls/Spy Rock"	" 37.85144"	" -79.07922"	" http://www.hikingupward.com/GWNF/CrabtreeFalls/"	" 13.9"	" 4"	" 5"	" 4"	" 1380"	" 3"	" 5"	99.2805755395683	1
+"Wilburn Ridge/Pine Mountain"	" 36.63330"	" -81.50909"	" http://www.hikingupward.com/JNF/WilburnRidgePineMountain/"	" 14.2"	" 4"	" 0"	" 6"	" 2225"	" 3"	" 5"	156.69014084507	2
+"Three Ridges"	" 37.90146"	" -78.98526"	" http://www.hikingupward.com/GWNF/ThreeRidges/"	" 14.4"	" 5"	" 4"	" 5"	" 3960"	" 2"	" 5"	275	5
+"Blackbird Knob"	" 39.03563"	" -79.34781"	" http://www.hikingupward.com/MNF/BlackbirdKnob/"	" 14.6"	" 4"	" 5"	" 5"	" 1973"	" 2"	" 4"	135.13698630137	2
+"Jeremy's Run"	" 38.738084"	" -78.31089"	" http://www.hikingupward.com/SNP/JeremysRun/"	" 14.7"	" 4"	" 4"	" 3"	" 2620"	" 3"	" 2"	178.231292517007	2
+"Tar Jacket Ridge"	" 37.76696"	" -79.18710"	" http://www.hikingupward.com/GWNF/TarJacketRidge/"	" 14.9"	" 4"	" 2"	" 5"	" 3150"	" 3"	" 5"	211.409395973154	3
+"Mills Creek"	" 37.90793"	" -79.05107"	" http://www.hikingupward.com/GWNF/MillsCreek/"	" 14.9"	" 4"	" 3"	" 3"	" 2750"	" 3"	" 4"	184.563758389262	3
+"Chimney Hollow/Elliot Knob"	" 38.27490"	" -79.29710"	" http://www.hikingupward.com/GWNF/ChimneyHollowElliotKnob/"	" 15.4"	" 5"	" 3"	" 5"	" 3670"	" 4"	" 2"	238.311688311688	4
+"Big Butt Trail"	" 35.81020"	" -82.34838"	" http://www.hikingupward.com/PNF/BigButtTrail/"	" 15.5"	" 6"	" 0"	" 4"	" 4365"	" 4"	" 1"	281.612903225806	5
+"Calf Mountain"	" 38.03190"	" -78.85838"	" http://www.hikingupward.com/SNP/CalfMountain/"	" 15.8"	" 3"	" 0"	" 4"	" 2770"	" 3"	" 4"	175.316455696203	2
+"Jacob Fork Rim"	" 35.60178"	" -81.62956"	" http://www.hikingupward.com/NCSP/JacobForkRim/"	" 16.1"	" 4"	" 3"	" 3"	" 3261"	" 4"	" 5"	202.546583850932	3
+"Spruce Knob/Seneca Creek"	" 38.70230"	" -79.53105"	" http://www.hikingupward.com/MNF/SpruceKnobSenecaCreek/"	" 16.5"	" 4"	" 5"	" 6"	" 2310"	" 3"	" 6"	140	2
+"Pinnacle"	" Rocky Knob & Walker's Knob\""	" new google.maps.LatLng(35.65940"	" -82.29608)"	" http://www.hikingupward.com/PNF/PinnacleRockyKnobWalkersKnob/"	" 16.6"	" 5"	" 3"	" 4"	" 3205"	" 4, 2"		
+"Middle Fork/Big Beechy"	" 38.29553"	" -80.24901"	" http://www.hikingupward.com/MNF/MiddleForkBigBeechy/"	" 16.7"	" 3"	" 5"	" 1"	" 2170"	" 5"	" 6"	129.940119760479	2
+"The Peak"	" 38.80597"	" -78.18051"	" http://www.hikingupward.com/SNP/ThePeak/"	" 16.8"	" 6"	" 1"	" 4"	" 3255"	" 3"	" 0"	193.75	3
+"Ramsey's Draft"	" 38.30828"	" -79.36090"	" http://www.hikingupward.com/GWNF/RamseysDraft/"	" 16.8"	" 5"	" 5"	" 3"	" 3170"	" 4"	" 5"	188.690476190476	3
+"James River Face Wilderness"	" 37.50788"	" -79.52391"	" http://www.hikingupward.com/JNF/JamesRiverFaceWilderness/"	" 16.9"	" 4"	" 4"	" 4"	" 2900"	" 3"	" 4"	171.597633136095	2
+"Mt. Cammerer and Big Creek"	" 35.75414"	" -83.10784"	" http://www.hikingupward.com/GSMNP/MtCammererBigCreek/"	" 17.8"	" 5"	" 4"	" 4"	" 4360"	" 2"	" 3"	244.943820224719	4
+"Canaan Mountain/Table Rock"	" 39.10779"	" -79.49661"	" http://www.hikingupward.com/MNF/CanaanMountainTableRock/"	" 18"	" 5"	" 3"	" 5"	" 1921"	" 3"	" 5"	106.722222222222	1
+"Shenandoah Mountain"	" 38.38012"	" -79.32777"	" http://www.hikingupward.com/GWNF/ShenandoahMountain/"	" 18.2"	" 5"	" 5"	" 3"	" 2811"	" 4"	" 5"	154.450549450549	2
+"Middle Prong Wilderness"	" 35.37357"	" -82.93617"	" http://www.hikingupward.com/PNF/MiddleProngWilderness/"	" 18.8"	" 6"	" 5"	" 5"	" 4181"	" 5"	" 5"	222.393617021277	3
+"Cranberry River"	" 38.18487"	" -80.28070"	" http://www.hikingupward.com/MNF/CranberryRiver/"	" 18.9"	" 5"	" 5"	" 1"	" 2250"	" 3"	" 5"	119.047619047619	1
+"Roan Highlands"	" 36.10628"	" -82.11047"	" http://www.hikingupward.com/PNF/RoanHighlands/"	" 19.3"	" 6"	" 0"	" 6"	" 4760"	" 3"	" 6"	246.632124352332	4
+"Dolly Sods/Lions Head"	" 38.98936"	" -79.36833"	" http://www.hikingupward.com/MNF/DollySodsLionsHead/"	" 21.1"	" 3"	" 5"	" 5"	" 2520"	" 3"	" 5"	119.431279620853	1
+"Presidentials"	" 44.22364"	" -71.41153"	" http://www.hikingupward.com/WMNF/Presidentials/"	" 21.4"	" 6"	" 3"	" 6"	" 7800"	" 2"	" 2"	364.485981308411	5
+"Mount Rogers/Wilburn Ridge"	" 36.68664"	" -81.54285"	" http://www.hikingupward.com/JNF/MtRogersWilburnRidge/"	" 21.5"	" 5"	" 3"	" 6"	" 5119"	" 3"	" 5"	238.093023255814	4
+"North Fork Mountain"	" 38.9814"	" -79.2316"	" http://www.hikingupward.com/MNF/NorthForkMountain/"	" 24.7"	" 4"	" 0"	" 5"	" 2650"	" 3"	" 4"	107.287449392713	1
+"Catoctin Trail"	" 39.46232"	" -77.49120"	" http://www.hikingupward.com/OMH/CatoctinTrail/"	" 27.9"	" 6"	" 5"	" 3"	" 4413"	" 3"	" 0"	158.172043010753	2
+"Mt Rogers/Grayson Highlands"	" 36.63514"	" -81.78909"	" http://www.hikingupward.com/JNF/MtRogersGraysonHighlands/"	" 39.6"	" 5"	" 3"	" 5"	" 6600"	" 3"	" 5"	166.666666666667	2
+"Maryland Challenge"	" 39.71610"	" -77.50730"	" http://www.hikingupward.com/OMH/MarylandChallenge/"	" 41.9"	" 6"	" 3"	" 3"	" 5288"	" 2"	" 4"	126.205250596659	2
