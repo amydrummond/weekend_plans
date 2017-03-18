@@ -85,6 +85,9 @@ The next step is to merge the data. This is a multi-step process to clean up the
 - assign trail IDs to new trails and add them to the AllTrails list
 	- [script](https://github.com/amydrummond/weekend_plans/blob/master/merge-distinct-hikes.py) : [result](https://github.com/amydrummond/weekend_plans/blob/master/data_sources/merged_alltrails_sites.txt)
 - clean up the geography matching, as the searching sometimes identified trails farther than our tolerance
+	- This will require getting latitude and longitude data for all the trails, a step in building the final databse. This
+	[builds the final AT data](https://github.com/amydrummond/weekend_plans/blob/master/collect_all_trails_data.py),
+	[which is saved here](https://github.com/amydrummond/weekend_plans/blob/master/data_sources/at_hike_data.json).
 - using fuzzy matching and lat/long proximity, indentify the trails that are on both the AllTrails and HikingUpward websites so both reviews and information can be used.
 
 That should do it for static data. 
