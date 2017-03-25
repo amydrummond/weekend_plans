@@ -1,0 +1,285 @@
+url	unique	type
+http://www.hikingupward.com/PNF/LittleFallBranchFalls/	1	Loop
+http://www.hikingupward.com/NCSP/BeaconHeights/	0.0479752236243286	Out & Back
+http://www.hikingupward.com/NCSP/LowerCascadeFalls/	0.0364914176067428	Out & Back
+http://www.hikingupward.com/NCSP/MingoFalls/	0.164373850950413	Out & Back
+http://www.hikingupward.com/PNF/RoaringForkFalls/	0.0439574432272145	Out & Back
+http://www.hikingupward.com/PNF/UpperCreekFalls/	0.974058048252798	Loop
+http://www.hikingupward.com/OVH/RedRockWilderness/	0.846849766259331	Loop
+http://www.hikingupward.com/PNF/LittleLostCoveCliffs/	0.0774275782135591	Out & Back
+http://www.hikingupward.com/OPH/CampMichaux/	0.353746576487737	Out & Back
+http://www.hikingupward.com/GWNF/WoodstockTower/	0.0643036045196645	Out & Back
+http://www.hikingupward.com/OVH/BelleIsle/	0.517114916380166	Loop
+http://www.hikingupward.com/OVH/HofflerCreek/	0.72204852996102	Loop
+http://www.hikingupward.com/OVH/ScottsRun/	5	Unknown
+http://www.hikingupward.com/NCSP/LittleBearwallowFalls/	0.63382746183188	Loop
+http://www.hikingupward.com/NCSP/GreenKnobSimsCreek/	0.912998057693222	Loop
+http://www.hikingupward.com/GWNF/IngalsOverlook/	0.142351694975647	Out & Back
+http://www.hikingupward.com/GWNF/HiddenRocks/	0.218959071375467	Out & Back
+http://www.hikingupward.com/OVH/BallsBluffBattlefield/	0.970053241576081	Loop
+http://www.hikingupward.com/NCSP/GlenBurneyTrail/	0.0364791581079624	Out & Back
+http://www.hikingupward.com/NCSP/CumberlandKnob/	0.972364713278755	Loop
+http://www.hikingupward.com/NCSP/SaddleMountain/	0.344062203939855	Out & Back
+http://www.hikingupward.com/PNF/MountPisgah/	0.0965375784946386	Out & Back
+http://www.hikingupward.com/NCSP/CrabtreeFalls/	0.842425070786075	Loop
+http://www.hikingupward.com/GWNF/TibbetKnob/	1	Loop
+http://www.hikingupward.com/GWNF/SpyRock/	0.0327526349113727	Out & Back
+http://www.hikingupward.com/OVH/FallsRidgePreserve/	0.257790282558716	Out & Back
+http://www.hikingupward.com/SNP/CedarRun/	0.0888928647818643	Out & Back
+http://www.hikingupward.com/OVH/Wahrani/	0.806308405562394	Loop
+http://www.hikingupward.com/SNP/FrazierDiscovery/	0.282892874955812	Out & Back
+http://www.hikingupward.com/JNF/PeaksOfOtter/	1	Loop
+http://www.hikingupward.com/JNF/DevilsBathtub/	0.00739659652921979	Out & Back
+http://www.hikingupward.com/OVH/DeadRun/	0.925500569106041	Loop
+http://www.hikingupward.com/OWVH/SchoolHouseRidge/	0.507921886109857	Loop
+http://www.hikingupward.com/SNP/StonyMan/	0.872913300404795	Loop
+http://www.hikingupward.com/OVH/HollowBrook/	0.0270438932562784	Out & Back
+http://www.hikingupward.com/OVH/HemlockOverlook/	0.993088484360009	Loop
+http://www.hikingupward.com/NCSP/ElkKnob/	0.0140492303578549	Out & Back
+http://www.hikingupward.com/PNF/CatawbaFalls/	0.0110713185884589	Out & Back
+http://www.hikingupward.com/GWNF/HumpbackRocks/	0.915127890969211	Loop
+http://www.hikingupward.com/GWNF/BuzzardRockNorth/	0.0407090823950699	Out & Back
+http://www.hikingupward.com/SNP/CorbinCabin/	0.987363554092054	Loop
+http://www.hikingupward.com/GWNF/TrimbleMountain/	0.921655478988528	Loop
+http://www.hikingupward.com/NCSP/LinvilleFalls/	0.116390669175807	Out & Back
+http://www.hikingupward.com/OVH/WolfRunShoals/	0.346922464453021	Out & Back
+http://www.hikingupward.com/NCSP/MtJefferson/	0.278806398960359	Out & Back
+http://www.hikingupward.com/OVH/PatriciaAnnByromForestPreserve/	0.743536846478304	Loop
+http://www.hikingupward.com/GWNF/BigSchloss/	0.0322585691370056	Out & Back
+http://www.hikingupward.com/OMH/AntietamBurnsideBridge/	0.822927402595529	Loop
+http://www.hikingupward.com/OVH/DutchGap/	0.731204147099152	Loop
+http://www.hikingupward.com/OVH/RiverBend/	0.987604781052166	Loop
+http://www.hikingupward.com/OMH/AntietamBloodyLane/	0.994201771123938	Loop
+http://www.hikingupward.com/OMH/GreenbrierStatePark/	0.902030660565969	Loop
+http://www.hikingupward.com/SNP/WhiteOak/	5	Unknown
+http://www.hikingupward.com/OVH/IvyCreek/	0.930107568292088	Loop
+http://www.hikingupward.com/GWNF/ThePriest/	0.04744120105859	Out & Back
+http://www.hikingupward.com/OVH/BentMountainFalls/	0.693930663575807	Loop
+http://www.hikingupward.com/GWNF/HoneQuarryRidge/	0.884665227853974	Loop
+http://www.hikingupward.com/GWNF/LittleSchloss/	0.94478977563157	Loop
+http://www.hikingupward.com/OVH/ManassasGap/	0.0151912262302452	Out & Back
+http://www.hikingupward.com/SNP/MoormansRiver/	0.0103217204571534	Out & Back
+http://www.hikingupward.com/OVH/MottsRunReservoir/	0.332799079816943	Out & Back
+http://www.hikingupward.com/OVH/DifficultRun/	0.89101185609235	Loop
+http://www.hikingupward.com/GWNF/HiddenValley/	0.978262885527704	Loop
+http://www.hikingupward.com/GWNF/LittleBaldKnobRidge/	0.0219060409963894	Out & Back
+http://www.hikingupward.com/GSMNP/DeepCreek/	0.664071487296618	Loop
+http://www.hikingupward.com/OVH/SkyMeadowsFarms/	0.792511568008955	Loop
+http://www.hikingupward.com/OVH/ManassasBullRun/	0.945451337431949	Loop
+http://www.hikingupward.com/OVH/FortunesCove/	0.965381581698182	Loop
+http://www.hikingupward.com/OMH/MarylandHeights/	0.501373785702744	Loop
+http://www.hikingupward.com/NCSP/CampbellCreekLanierFalls/	0.707378952195648	Loop
+http://www.hikingupward.com/SNP/DickeyRidge/	0.687907043914681	Loop
+http://www.hikingupward.com/NCSP/FlatTopTower/	0.0166887274067315	Out & Back
+http://www.hikingupward.com/OVH/RavenRocks/	0.00746593592080251	Out & Back
+http://www.hikingupward.com/SNP/BigDevilsStairs/	0.0155104248524556	Out & Back
+http://www.hikingupward.com/GWNF/MountPleasant/	0.790498805805778	Loop
+http://www.hikingupward.com/JNF/AppleOrchardFalls/	0.991819918375504	Loop
+http://www.hikingupward.com/SNP/HightopMountain/	0.00743809197426093	Out & Back
+http://www.hikingupward.com/OVH/BurkeLake/	0.906164574852819	Loop
+http://www.hikingupward.com/JNF/DragonsTooth/	0.56545394473864	Loop
+http://www.hikingupward.com/OMH/LittleBennettRegionalParkSouth/	0.768386908102716	Loop
+http://www.hikingupward.com/GWNF/ColdMountain/	0.991868639079142	Loop
+http://www.hikingupward.com/GWNF/BrandywineRecreationArea/	5	Unknown
+http://www.hikingupward.com/SNP/SaddlebackMountain/	0.478829271022279	Loop
+http://www.hikingupward.com/SNP/BigRun/	0.995892783320961	Loop
+http://www.hikingupward.com/SNP/LittleDevilsStairs/	0.988851814245046	Loop
+http://www.hikingupward.com/OVH/BansheeReeks/	0.879724838453582	Loop
+http://www.hikingupward.com/OVH/StairwayToHeaven/	0.371221641636315	Out & Back
+http://www.hikingupward.com/OMH/LittleBennettRegionalPark/	0.988471808785566	Loop
+http://www.hikingupward.com/GWNF/FridleyGap/	0.838159445222185	Loop
+http://www.hikingupward.com/OVH/ManassasGroveton/	0.941215285538528	Loop
+http://www.hikingupward.com/OVH/BRCES/	0.711251720220997	Loop
+http://www.hikingupward.com/OVH/JamesRiver/	0.96079123077454	Loop
+http://www.hikingupward.com/GWNF/LongMountainRidge/	0.771435542465624	Loop
+http://www.hikingupward.com/OVH/HungryMother/	0.868105639847839	Loop
+http://www.hikingupward.com/OVH/AshbyHollow/	0.0243170481645784	Out & Back
+http://www.hikingupward.com/OWVH/CacaponResortStatePark/	0.805243127340796	Loop
+http://www.hikingupward.com/GWNF/KeplerOverlook/	0.0140469727259681	Out & Back
+http://www.hikingupward.com/SNP/JonesRunDoylesRiver/	0.994488162850272	Loop
+http://www.hikingupward.com/JNF/GreatChannels/	0.00393387176037318	Out & Back
+http://www.hikingupward.com/OVH/TrumboHollow/	0.00787686411932693	Out & Back
+http://www.hikingupward.com/GWNF/LakeMoomaw/	0.017297035543796	Out & Back
+http://www.hikingupward.com/SNP/BroadHollow/	0.986573685947042	Loop
+http://www.hikingupward.com/OVH/PleasantGrove/	0.653971303872045	Loop
+http://www.hikingupward.com/OMH/SugarloafMountain/	0.91253613323354	Loop
+http://www.hikingupward.com/SNP/RobertsonMountain/	0.79717938898934	Loop
+http://www.hikingupward.com/GWNF/DobieMountain/	0.5832000148341	Loop
+http://www.hikingupward.com/GWNF/FallsRidge/	0.869670266073307	Loop
+http://www.hikingupward.com/OMH/WoodstockEquestrianPark/	0.93504938013481	Loop
+http://www.hikingupward.com/NCSP/BuckquarterCreekHoldenMill/	0.724856043391298	Loop
+http://www.hikingupward.com/GWNF/HighPeak/	0.979637450436181	Loop
+http://www.hikingupward.com/GWNF/BuzzardRock/	0.415453309678347	Out & Back
+http://www.hikingupward.com/GWNF/HardscrabbleKnob/	0.0026092400445014	Out & Back
+http://www.hikingupward.com/OVH/BeardsMountain/	0.994428527150034	Loop
+http://www.hikingupward.com/OVH/SkyMeadows/	0.984781586236856	Loop
+http://www.hikingupward.com/OVH/PrinceWilliam/	1	Loop
+http://www.hikingupward.com/PNF/MaxPatch/	0.00815916714113956	Out & Back
+http://www.hikingupward.com/GWNF/EagleRock/	0.0110505697371974	Out & Back
+http://www.hikingupward.com/JNF/ElkGardenBuzzardRock/	0.0118119159123183	Out & Back
+http://www.hikingupward.com/OVH/Fountainhead/	0.661423837689422	Loop
+http://www.hikingupward.com/NCSP/BearwallowMtnBlueRidgePastures/	0.22391535522412	Out & Back
+http://www.hikingupward.com/OVH/HouseMountain/	0.0711125721159406	Out & Back
+http://www.hikingupward.com/PNF/NorthHarperCreekFalls/	0.03898946647378	Out & Back
+http://www.hikingupward.com/GWNF/OtterCreek/	0.0320554622789669	Out & Back
+http://www.hikingupward.com/NCSP/LookoutMountain/	0.753395156052878	Loop
+http://www.hikingupward.com/JNF/CoveMountain/	0.996115128297749	Loop
+http://www.hikingupward.com/OVH/MasonNeck/	0.359533056389122	Out & Back
+http://www.hikingupward.com/SNP/HogbackMountain/	0.895354706557527	Loop
+http://www.hikingupward.com/SNP/CampHoover/	0.973070922997256	Loop
+http://www.hikingupward.com/GWNF/ThreeTopMountain/	0.969517548219774	Loop
+http://www.hikingupward.com/JNF/TinkerCliffsAndyLayneTrail/	5	Unknown
+http://www.hikingupward.com/OPH/SunsetRocks/	0.554888221513363	Loop
+http://www.hikingupward.com/OVH/KeysGapBuzzardRocks/	0.0331898450720925	Out & Back
+http://www.hikingupward.com/JNF/FallingwaterCascadesFlatTop/	0.212055491724816	Out & Back
+http://www.hikingupward.com/GWNF/VeachGap/	0.00374321553550632	Out & Back
+http://www.hikingupward.com/OMH/BillyGoatTrail/	0.861529719360265	Loop
+http://www.hikingupward.com/OVH/GRThompsonWildlifeManagementArea/	5	Unknown
+http://www.hikingupward.com/OMH/AnnapolisRockBlackRockCliff/	0.0342432037830578	Out & Back
+http://www.hikingupward.com/GWNF/OakKnob/	0.993131410052849	Loop
+http://www.hikingupward.com/JNF/CarvinCoveHayRock/	0.0304585288067049	Out & Back
+http://www.hikingupward.com/SNP/NicholsonHollow/	0.0516733539180928	Out & Back
+http://www.hikingupward.com/NCSP/HighShoalsFalls/	0.84454152703106	Loop
+http://www.hikingupward.com/GWNF/EmeraldPond/	0.458822927769369	Out & Back
+http://www.hikingupward.com/OVH/AppomattoxHistoryTrail/	5	Unknown
+http://www.hikingupward.com/NCSP/IndianCreek/	0.0226533702148858	Out & Back
+http://www.hikingupward.com/MNF/HighFalls/	0.0367495183678963	Out & Back
+http://www.hikingupward.com/OVH/GoshenPassJumpRock/	0.835807542910282	Loop
+http://www.hikingupward.com/OVH/ShenandoahRiver/	5	Unknown
+http://www.hikingupward.com/SNP/WhiteOakCedarRun/	0.927977126928879	Loop
+http://www.hikingupward.com/JNF/McAfeeKnob/	0.650457655171181	Loop
+http://www.hikingupward.com/JNF/DevilsMarbleyard/	0.706075601401857	Loop
+http://www.hikingupward.com/GWNF/JerrysRun/	0.970106081805083	Loop
+http://www.hikingupward.com/NCSP/BooneForkPriceLake/	0.905093399339447	Loop
+http://www.hikingupward.com/JNF/TheCascadesBarneysWall/	0.00579381666617183	Out & Back
+http://www.hikingupward.com/OMH/CatoctinMountainPark/	0.916524830472779	Loop
+http://www.hikingupward.com/OWVH/HarpersFerryLoudounHeights/	0.181836546441543	Out & Back
+http://www.hikingupward.com/SNP/OverallRunBeecherRidge/	0.756972334257559	Loop
+http://www.hikingupward.com/OVH/AshbyGap/	0.306043131651261	Out & Back
+http://www.hikingupward.com/SNP/BearChurchRock/	0.0128235047936261	Out & Back
+http://www.hikingupward.com/SNP/ChesterGapJenkinsGap/	0.979098167940443	Loop
+http://www.hikingupward.com/PNF/HawksbillMtnSittingBearMtnDevilsHole/	5	Unknown
+http://www.hikingupward.com/SNP/DoubleBearRocks/	0.0214959982431168	Out & Back
+http://www.hikingupward.com/GWNF/LittleNorthMountain/	0.990839708602843	Loop
+http://www.hikingupward.com/GWNF/DuncanKnob/	0.00415742355758389	Out & Back
+http://www.hikingupward.com/GWNF/ElliotKnob/	1	Loop
+http://www.hikingupward.com/GWNF/MenekaPeak/	0.969297365296078	Loop
+http://www.hikingupward.com/GWNF/IndianGraveRidge/	0.978801818270622	Loop
+http://www.hikingupward.com/GWNF/StricklerKnob/	0.0143782887899324	Out & Back
+http://www.hikingupward.com/NCSP/SwannanoaMountains/	0.603369075939184	Loop
+http://www.hikingupward.com/OMH/SandFlatSalamanderTrail/	0.914920295325809	Loop
+http://www.hikingupward.com/GWNF/LaurelRun/	0.880344750105273	Loop
+http://www.hikingupward.com/GWNF/ShawlGap/	0.935581115872029	Loop
+http://www.hikingupward.com/GWNF/LittleCreaseMountain/	0.00621325598649444	Out & Back
+http://www.hikingupward.com/NCSP/RichMountain/	0.52230383239422	Loop
+http://www.hikingupward.com/NCSP/StoneMountainWolfRock/	0.69811286071951	Loop
+http://www.hikingupward.com/GWNF/MorganRun/	0.951760401705909	Loop
+http://www.hikingupward.com/SNP/BuckHollowMarysRock/	0.599466931515229	Loop
+http://www.hikingupward.com/OVH/BuzzardHill/	0.0193549037278259	Out & Back
+http://www.hikingupward.com/SNP/PineyBranch/	0.69280488265535	Loop
+http://www.hikingupward.com/OMH/CandOCanalWeavertonCliff/	0.0105380026114772	Out & Back
+http://www.hikingupward.com/SNP/OldRag/	0.944400444407036	Loop
+http://www.hikingupward.com/GWNF/TorryRidge/	0.95872979250331	Loop
+http://www.hikingupward.com/GWNF/LongMountain/	0.99228872375225	Loop
+http://www.hikingupward.com/SNP/HawksbillFranklinCliffs/	0.981398354554244	Loop
+http://www.hikingupward.com/SNP/HazelRiver/	0.593843294202981	Loop
+http://www.hikingupward.com/GWNF/GroomsRidgeChestnutridge/	0.991705894977011	Loop
+http://www.hikingupward.com/SNP/TrayfootMountainPaineRun/	0.984586541632092	Loop
+http://www.hikingupward.com/GWNF/KennedyPeak/	0.991747116608647	Loop
+http://www.hikingupward.com/JNF/MountainLakeWilderness/	0.915027073680672	Loop
+http://www.hikingupward.com/NCSP/PilotMountain/	0.823509227578641	Loop
+http://www.hikingupward.com/SNP/ThreeFalls/	0.975597002107763	Loop
+http://www.hikingupward.com/OVH/BlueSuckFalls/	0.955883772740867	Loop
+http://www.hikingupward.com/GWNF/SlabcampRunLocustSpring/	0.647455582495339	Loop
+http://www.hikingupward.com/GWNF/TroutPond/	0.897345499410921	Loop
+http://www.hikingupward.com/JNF/KellyKnob/	0.975500359690713	Loop
+http://www.hikingupward.com/SNP/SamsRidgeCatlettSpur/	0.421766434166679	Out & Back
+http://www.hikingupward.com/SNP/RiprapHollow/	0.976405563407215	Loop
+http://www.hikingupward.com/SNP/RockyMount/	0.567068282641362	Loop
+http://www.hikingupward.com/JNF/HoopHole/	0.968494705932675	Loop
+http://www.hikingupward.com/GWNF/WhiteRocks/	0.65150469987889	Loop
+http://www.hikingupward.com/OVH/HighBridge/	0.140796166427814	Out & Back
+http://www.hikingupward.com/GWNF/SignalKnob/	0.975033892721508	Loop
+http://www.hikingupward.com/GWNF/LittlePassageCreek/	0.39047428603351	Out & Back
+http://www.hikingupward.com/JNF/TerrapinMountain/	0.909152421888586	Loop
+http://www.hikingupward.com/GWNF/StMarysWilderness/	1	Loop
+http://www.hikingupward.com/MNF/ForksRedCreek/	0.563085774799387	Loop
+http://www.hikingupward.com/SNP/StonyMountain/	0.692523760086835	Loop
+http://www.hikingupward.com/SNP/SouthRiverFalls/	0.831608774530249	Loop
+http://www.hikingupward.com/SNP/TurkMountain/	0.780483725640907	Loop
+http://www.hikingupward.com/SNP/CatlettMountain/	0.6441986492033	Loop
+http://www.hikingupward.com/GWNF/RoaringRun/	0.744129371577547	Loop
+http://www.hikingupward.com/SNP/ThorntonRiver/	0.99197812326425	Loop
+http://www.hikingupward.com/GWNF/HalfmoonMountain/	0.89904030300414	Loop
+http://www.hikingupward.com/OVH/RockCastleGorge/	0.997431967998105	Loop
+http://www.hikingupward.com/MNF/DollySodsNorth/	0.571273148045721	Loop
+http://www.hikingupward.com/SNP/CorbinMountain/	0.893833714370395	Loop
+http://www.hikingupward.com/GWNF/SandSpringMountain/	0.985195784928616	Loop
+http://www.hikingupward.com/NCSP/BasinCreek/	0.0108340455893336	Out & Back
+http://www.hikingupward.com/PNF/PinchInRockJockLinvilleGorge/	0.997504408502959	Loop
+http://www.hikingupward.com/PNF/LanePinnacle/	0.00623223792313254	Out & Back
+http://www.hikingupward.com/NCSP/HangingRock/	0.668142240872889	Loop
+http://www.hikingupward.com/OWVH/CrannyCrowBigRidge/	0.470827876010406	Loop
+http://www.hikingupward.com/GWNF/SugarKnob/	0.99327266836397	Loop
+http://www.hikingupward.com/NCSP/BlackrockMountainThePinnacle/	0.00488053354334497	Out & Back
+http://www.hikingupward.com/NCSP/GrandfatherMountainProfileTrail/	0.0280115426096158	Out & Back
+http://www.hikingupward.com/GWNF/GerhardShelter/	0.975170812511892	Loop
+http://www.hikingupward.com/MNF/BigRunLeadingRidge/	5	Unknown
+http://www.hikingupward.com/NCSP/LittlePisgahMountainFlorenceNaturePreserve/	5	Unknown
+http://www.hikingupward.com/NCSP/GrandfatherMountainDanielBoone/	0.334795276442782	Out & Back
+http://www.hikingupward.com/GWNF/MillMountain/	0.741376454986596	Loop
+http://www.hikingupward.com/GWNF/GreatNorthMountain/	0.908764554092595	Loop
+http://www.hikingupward.com/GWNF/BrownsHollow/	0.904476892344207	Loop
+http://www.hikingupward.com/SNP/JonesMountain/	0.649525273077598	Loop
+http://www.hikingupward.com/UNF/BirkheadMountainsWilderness/	0.514219546908645	Loop
+http://www.hikingupward.com/PNF/BaldKnobDobsonKnob/	0.0141662458736085	Out & Back
+http://www.hikingupward.com/PNF/MtMitchell/	0.184845750419786	Out & Back
+http://www.hikingupward.com/PNF/BlackBalsamKnob/	0.786409994824842	Loop
+http://www.hikingupward.com/GWNF/BigRockyRow/	0.795538576942843	Loop
+http://www.hikingupward.com/PNF/BlackMountainCrestTrail/	1	Loop
+http://www.hikingupward.com/GWNF/NorthRiverGorge/	0.939326713335307	Loop
+http://www.hikingupward.com/GWNF/KernsMountain/	0.948186808138446	Loop
+http://www.hikingupward.com/PNF/WoodsMountainTrail/	0.00768899922360316	Out & Back
+http://www.hikingupward.com/NCSP/DevilsGardenOverlook/	0.0169696913219482	Out & Back
+http://www.hikingupward.com/GWNF/MudholeGap/	0.976936925966746	Loop
+http://www.hikingupward.com/MNF/AlleghenySenecaCreek/	0.8001343908471	Loop
+http://www.hikingupward.com/SNP/OverallRunHeiskellHollow/	0.677375124670922	Loop
+http://www.hikingupward.com/GWNF/LittleSluice/	0.825772654001786	Loop
+http://www.hikingupward.com/GWNF/LaurelFork/	0.989032661191819	Loop
+http://www.hikingupward.com/GWNF/DuncanKnobHollow/	0.401274772733362	Out & Back
+http://www.hikingupward.com/PNF/BigBald/	0.0147796472542291	Out & Back
+http://www.hikingupward.com/JNF/LittleWilsonCreekWilderness/	0.899301560062644	Loop
+http://www.hikingupward.com/GWNF/LittleSchloss/	0.94478977563157	Loop
+http://www.hikingupward.com/GWNF/Wintergreen/	0.894139603410231	Loop
+http://www.hikingupward.com/SNP/AustinFurnaceMountains/	0.950298508845607	Loop
+http://www.hikingupward.com/MNF/HighMeadowsSenecaCreek/	0.991168418728546	Loop
+http://www.hikingupward.com/GWNF/CrabtreeFalls/	0.0453426649929299	Out & Back
+http://www.hikingupward.com/JNF/WilburnRidgePineMountain/	0.846386544683444	Loop
+http://www.hikingupward.com/GWNF/ThreeRidges/	0.749849510804556	Loop
+http://www.hikingupward.com/MNF/BlackbirdKnob/	0.618064600983355	Loop
+http://www.hikingupward.com/SNP/JeremysRun/	0.950951540825435	Loop
+http://www.hikingupward.com/GWNF/TarJacketRidge/	0.474172334663649	Loop
+http://www.hikingupward.com/GWNF/MillsCreek/	0.872341182151027	Loop
+http://www.hikingupward.com/GWNF/ChimneyHollowElliotKnob/	0.960923894755705	Loop
+http://www.hikingupward.com/PNF/BigButtTrail/	0.0100889856777722	Out & Back
+http://www.hikingupward.com/SNP/CalfMountain/	1	Loop
+http://www.hikingupward.com/NCSP/JacobForkRim/	0.939865002670046	Loop
+http://www.hikingupward.com/MNF/SpruceKnobSenecaCreek/	0.508493250223632	Loop
+http://www.hikingupward.com/PNF/PinnacleRockyKnobWalkersKnob/	0.106827173320384	Out & Back
+http://www.hikingupward.com/MNF/MiddleForkBigBeechy/	0.955984151677652	Loop
+http://www.hikingupward.com/SNP/ThePeak/	0.850867718840057	Loop
+http://www.hikingupward.com/GWNF/RamseysDraft/	0.95989460510779	Loop
+http://www.hikingupward.com/JNF/JamesRiverFaceWilderness/	5	Unknown
+http://www.hikingupward.com/GSMNP/MtCammererBigCreek/	0.921801253142851	Loop
+http://www.hikingupward.com/MNF/CanaanMountainTableRock/	0.812465533969124	Loop
+http://www.hikingupward.com/GWNF/ShenandoahMountain/	0.914480874533022	Loop
+http://www.hikingupward.com/PNF/MiddleProngWilderness/	0.862825393235409	Loop
+http://www.hikingupward.com/MNF/CranberryRiver/	0.942363112842155	Loop
+http://www.hikingupward.com/PNF/RoanHighlands/	0.00383276695009638	Out & Back
+http://www.hikingupward.com/MNF/DollySodsLionsHead/	0.735131361919745	Loop
+http://www.hikingupward.com/WMNF/Presidentials/	1	Loop
+http://www.hikingupward.com/JNF/MtRogersWilburnRidge/	0.896779528388625	Loop
+http://www.hikingupward.com/MNF/NorthForkMountain/	1	Loop
+http://www.hikingupward.com/OMH/CatoctinTrail/	0.982803604777827	Loop
+http://www.hikingupward.com/JNF/MtRogersGraysonHighlands/	0.985510089857555	Loop
+http://www.hikingupward.com/OMH/MarylandChallenge/	1	Loop
